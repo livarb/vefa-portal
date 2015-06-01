@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<article class="one-col">
+	
+		<h1>{{ .Title }}</h1>
+		
+		<div class="body">
+
+			{{ .Content }}
+			
+		</div>
+
+	</article>
+		
+</section>
+<aside>
+
+	{{ $pages := where (where .Site.Pages "Section" .Section) "Type" "starter" }}
+	<section class="box related-themes" style="background-image: none; background-color: #fff;">
+		<div class="body">
+			<ul>
+				{{ range $pages.ByTitle }}
+					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+				{{ end }}
+			</ul>
+		</div>
+	</section>
+
+</aside>
+
+{{ partial "footer.html" . }}

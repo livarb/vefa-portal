@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<article class="one-col">
+	
+		<h1>{{ .Title }}</h1>
+		
+		<div class="body">
+		
+			<p><em>{{ dateFormat "January 2nd, 2006" .Date }}</em></p>
+		
+			{{ .Content }}
+		
+		</div>
+	
+	</article>
+
+</section>
+<aside>
+	{{ partial "resources.html" . }}
+</aside>
+	
+{{ partial "footer.html" . }}

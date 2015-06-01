@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head.html" . }}
+<body class="front nodetype-frontpage content-frontpage">
+
+<a id="top"/>
+<div id="skip-link">
+<a href="#content">Jump to content</a>
+</div>
+
+<div id="page">
+
+	{{ partial "navbar.html" . }}
+
+	<div id="main">
+
+		<section id="content">
+
+			<section class="box related-themes" style="background-color: #fff;">
+				<div class="body">
+					<ul>
+						{{ range where .Site.Pages.ByTitle "Type" "section" }}
+							<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+						{{ end }}
+					</ul>
+				</div>
+			</section>
+
+			<section class="box article-list with-hover-and-active">
+				<div class="heading">    
+					<h2>Recent announcements</h2>
+				</div>
+				<div class="body">
+				{{ range first 3 (where .Site.Pages.ByDate.Reverse "Type" "announcement") }}
+					<article class="two-col">
+						<div class="group-left">
+							<div class="day">{{ dateFormat "2" .Date }}</div>
+							<div class="month">{{ dateFormat "Jan" .Date }}</div>
+						</div>
+						<div class="group-right">
+							<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+							<!-- <p class="ingress">Oslo</p> -->
+						</div>
+					</article>
+				{{ end }}
+				</div>    
+			</section>
+
+			<section class="box article-list with-hover-and-active">
+				<div class="heading">    
+					<h2>Upcoming events</h2>
+				</div>
+				<div class="body">
+				{{ range first 5 (where .Site.Pages.ByDate "Type" "event") }}
+					<article class="two-col">
+						<div class="group-left">
+							<div class="day">{{ dateFormat "2" .Date }}</div>
+							<div class="month">{{ dateFormat "Jan" .Date }}</div>
+						</div>
+						<div class="group-right">
+							<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+							<!-- <p class="ingress">Oslo</p> -->
+						</div>
+					</article>
+				{{ end }}
+				</div>    
+			</section>
+		</section>
+
+{{ partial "footer.html" . }}

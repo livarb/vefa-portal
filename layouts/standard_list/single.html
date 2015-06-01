@@ -1,0 +1,47 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<h1>{{ .Title }}</h1>
+	
+</section>
+<aside>
+
+	<!-- ByTitle -->
+	{{ $pages := where (where .Site.Pages "Section" .Section) "Type" "standard" }}
+
+	{{ $upcoming := where $pages "Status" "upcoming" }}
+	{{ if gt (len $upcoming) 0 }}
+	<section class="box related-themes" style="background-image: none; background-color: #fff;">
+		<div class="heading">
+			<h2>Upcoming standards</h2>
+		</div>
+		<div class="body">
+			<ul>
+				{{ range $upcoming.ByTitle }}
+					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+				{{ end }}
+			</ul>
+		</div>
+	</section>
+	{{ end }}
+
+	{{ $current := where $pages "Status" "current" }}
+	{{ if gt (len $current) 0 }}
+	<section class="box related-themes" style="background-image: none; background-color: #fff;">
+		<div class="heading">
+			<h2>Current standards</h2>
+		</div>
+		<div class="body">
+			<ul>
+				{{ range $current.ByTitle }}
+					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+				{{ end }}
+			</ul>
+		</div>
+	</section>
+	{{ end }}
+
+</aside>
+
+{{ partial "footer.html" . }}

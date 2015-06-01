@@ -1,0 +1,24 @@
+{{ $section := .Section }}
+{{ $permalink := .Permalink }}
+<section id="sidebar">
+	<section class="box menu left">
+		<div class="body">
+			<ul class="menu">
+			{{ range where .Site.Pages "Type" "section" }}
+				{{ if eq .Section $section }}
+				<li class="expanded active-trail">
+					<a href="{{ .Permalink }}" class="active">{{ .Title }}</a>
+					<ul class="menu">
+					{{ range .Params.part }}
+						<li><a href="{{ .url }}"{{ if in $permalink .url }} class="active"{{ end }}>{{ .title }}</a></li>
+					{{ end }}
+					</ul>
+				</li>
+				{{ else }}
+				<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+				{{ end }}
+			{{ end }}
+			</ul>
+		</div>
+	</section>
+</section>

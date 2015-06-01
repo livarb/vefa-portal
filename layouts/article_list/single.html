@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<article class="one-col">
+	
+		<h1>{{ .Title }}</h1>
+		
+		<div class="body">
+
+			{{ $pages := where (where .Site.Pages "Section" .Section) "Type" "article" }}
+			{{ range $pages.GroupByParam "group" }}
+			<section class="dificontainer toc" style="background-image: none; background-color: #fff;">
+				{{ range first 1 .Pages }}
+				<div class="heading">
+					<h2>{{ .Params.group }}</h2>
+				</div>
+				{{ end }}
+				<div class="body">
+					<ul>
+						{{ range .Pages.ByTitle }}
+							<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+						{{ end }}
+					</ul>
+				</div>
+			</section>
+			{{ end }}
+
+		</div>
+	
+	</article>
+
+</section>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,37 @@
+{{ partial "header.html" . }}
+
+{{ if isset .Params "github_milestone" }}
+<p><a href="{{ .Params.github_milestone }}">See all issues</a></p>
+{{ end }}
+<section id="content">
+
+<h1>{{ .Title }}</h1>
+
+{{ .Content }}
+
+{{ if isset .Params "resources" }}
+	<div class="well">
+	
+	<h2>Resources</h2>
+	{{ range .Params.resources }}
+		<li>
+		{{ if isset . "url" }}
+			<a href="{{ .url }}">{{ .title }}</a>
+		{{ else }}
+			{{ .title }}
+			<ul>
+			{{ if isset . "attachment" }}
+				{{ range .attachment }}
+					<li><a href="{{ .url }}">{{ .title }}</a></li>
+				{{ end }}
+			{{ end }}
+			</ul>
+		{{ end }}
+		</li>
+	{{ end }}
+	</div>
+{{ end }}
+
+</section>
+
+{{ partial "footer.html" . }}

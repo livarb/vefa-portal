@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<h1>{{ .Title }}</h1>
+
+	<section class="box-view article-list">
+
+	{{ $events := where (where .Site.Pages "Section" .Section) "Type" "announcement" }}
+	{{ range $events.ByDate.Reverse }}
+		<article class="two-col">
+			<div class="group-left">
+				<div class="day">{{ dateFormat "2" .Date }}</div>
+				<div class="month">{{ dateFormat "Jan" .Date }}</div>
+			</div>
+			<div class="group-right">
+				<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+				<!-- <p class="ingress">Oslo</p> -->
+			</div>
+		</article>
+	{{ end }}
+		 
+	</section>
+
+</section>
+
+{{ partial "footer.html" . }}

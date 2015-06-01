@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<article class="one-col">
+	
+		<h1>{{ .Title }}</h1>
+		
+		<div class="body">
+		
+			{{ if isset .Params "licence" }}
+			<p>Licence: <a href="{{ .Params.licence.url }}">{{ .Params.licence.title }}</a></p>
+			{{ end }}
+
+			{{ .Content }}
+
+		</div>
+	
+	</article>
+
+</section>
+<aside>
+	{{ partial "resources.html" . }}
+</aside>
+{{ partial "footer.html" . }}

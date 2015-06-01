@@ -1,0 +1,16 @@
+{{ if isset .Params "resources" }}
+<section class="box related-themes" style="background-image: none; background-color: #fff;">
+	<div class="heading">    
+		<h2>Resources</h2>
+	</div>
+	<div class="body">
+		<ul>
+			{{ range .Params.resources }}
+				<li>
+					<a href="{{ .url }}">{{ .title }}</a>
+				</li>
+			{{ end }}
+		</ul>
+	</div>
+</section>
+{{ end }}

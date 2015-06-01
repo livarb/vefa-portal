@@ -1,0 +1,9 @@
+baseurl = "http://vefa.difi.no/"
+languageCode = "en"
+title = "Vefa"
+
+disableRSS = true
+disableSitemap = true
+
+[blackfriday]
+plainIdAnchors = true

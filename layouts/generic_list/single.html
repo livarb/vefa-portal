@@ -1,0 +1,18 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<h1>{{ .Title }}</h1>
+
+	<!-- ByTitle -->
+	{{ $pages := where (where .Site.Pages "Section" .Section) "Type" .Params.target_type }}
+
+	<ul>
+	{{ range $pages }}
+		<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+	{{ end }}
+	</ul>
+
+</section>
+
+{{ partial "footer.html" . }}

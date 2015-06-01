@@ -1,0 +1,8 @@
+{{ if isset .Params "current" }}
+	{{ if eq .Status "deprecated" }}
+		<div class="alert alert-danger" role="alert">This is not the current version. <a href="{{ .Params.current }}">Go to current version.</a></div>
+	{{ end }}
+	{{ if eq .Status "upcoming" }}
+		<div class="alert alert-info" role="alert">This is an upcoming version. <a href="{{ .Params.current }}">Go to current version.</a></div>
+	{{ end }}
+{{ end }}
