@@ -9,19 +9,19 @@ current = "/ehf/standard/ehf-despatch-advice-current/"
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-07-01/STANDARD/EHFDespatchAdvice/1.0/guide/Implementeringsveileder%20EHF%20Pakkseddel%20v1.0.1.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-07-01/STANDARD/EHFDespatchAdvice/1.0/guide/Implementeringsveileder%20EHF%20Pakkseddel%20v1.0.2.pdf"
 
 [[resources]]
 title = "Implementation attachments (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-07-01/STANDARD/EHFDespatchAdvice/1.0/guide/Vedlegg.zip"
+url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-07-01/STANDARD/EHFDespatchAdvice/1.0/guide/attachments-norwegian"
 
 [[resources]]
 title = "Implementation guide (English)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-07-01/STANDARD/EHFDespatchAdvice/1.0/guide/ImplementationGuide%20EHF%20DespatchAdvice%20v1.0.1.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-07-01/STANDARD/EHFDespatchAdvice/1.0/guide/ImplementationGuide%20EHF%20DespatchAdvice%20v1.0.2.pdf"
 
 [[resources]]
 title = "Implementation attachments (English)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-07-01/STANDARD/EHFDespatchAdvice/1.0/guide/Attachments.zip"
+url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-07-01/STANDARD/EHFDespatchAdvice/1.0/guide/attachments-english"
 
 [[resources]]
 title = "Validator"
