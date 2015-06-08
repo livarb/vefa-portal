@@ -16,15 +16,13 @@ url = "http://hotell.difi.no/?dataset=difi/elma/capabilities"
 title = "Complete download (CSV)"
 url = "http://hotell.difi.no/download/difi/elma/capabilities?download"
 
-#[[resources]]
-#title = "Registration on data.norge.no"
-#url = "http://data.norge.no/data/direktoratet-forvaltning-og-ikt/norske-mottakere-i-openpeppol"
+[[resources]]
+title = "Registration on data.norge.no"
+url = "http://data.norge.no/data/direktoratet-forvaltning-og-ikt/norske-mottakere-i-openpeppol"
 
 +++
 
-This dataset is updated every hour.
-
-Fields in the dataset is as follows:
+Fields in the dataset as follows:
 
 * *Identifier (identifier):* Organization number
 * *Organization name (name):* Organization name
@@ -38,3 +36,5 @@ Fields in the dataset is as follows:
 The list of fields is not complete, but the pattern should be clear enough to understand the remining fields.
 
 New fields are added and old fields removed as the profiles in ELMA evolve.
+
+Dataset is updated every hour.
