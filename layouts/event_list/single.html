@@ -8,6 +8,7 @@
 
 	{{ $events := where (where .Site.Pages "Section" .Section) "Type" "event" }}
 	{{ range $events.ByDate }}
+	{{ if ge .Date.Unix .Now.Unix }}
 		<article class="two-col">
 			<div class="group-left">
 				<div class="day">{{ dateFormat "2" .Date }}</div>
@@ -18,6 +19,7 @@
 				<!-- <p class="ingress">Oslo</p> -->
 			</div>
 		</article>
+	{{ end }}
 	{{ end }}
 		 
 	</section>

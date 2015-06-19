@@ -51,7 +51,8 @@
 					<h2>Upcoming events</h2>
 				</div>
 				<div class="body">
-				{{ range first 5 (where .Site.Pages.ByDate "Type" "event") }}
+				{{ range where .Site.Pages.ByDate "Type" "event" }}
+				{{ if ge .Date.Unix .Now.Unix }}
 					<article class="two-col">
 						<div class="group-left">
 							<div class="day">{{ dateFormat "2" .Date }}</div>
@@ -62,6 +63,7 @@
 							<!-- <p class="ingress">Oslo</p> -->
 						</div>
 					</article>
+				{{ end }}
 				{{ end }}
 				</div>    
 			</section>

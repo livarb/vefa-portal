@@ -3,6 +3,7 @@
 title = "EHF Despatch Advice 1.0.2"
 type = "standard"
 status = "upcoming"
+draft = true
 
 aliases = [ "/ehf/standard/ehf-despatch-advice-next/", "/ehf/standard/ehf-despatch-advice-1.0.next/" ]
 current = "/ehf/standard/ehf-despatch-advice-current/"

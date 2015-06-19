@@ -3,6 +3,7 @@
 title = "EHF Ordering 1.0.3"
 type = "standard"
 status = "upcoming"
+draft = true
 
 aliases = [ "/ehf/standard/ehf-ordering-next/", "/ehf/standard/ehf-ordering-1.0.next/" ]
 current = "/ehf/standard/ehf-ordering-current/"

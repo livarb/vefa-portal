@@ -1,16 +1,14 @@
 +++
 
 date = "2015-07-01"
-title = "Revision releases"
+title = "Hotfix for Catalogue and Order"
 type = "event"
 
 +++
 
-This revisions are mandatory:
+This is subject to this hotfix:
 
-* [EHF Catalogue 1.0.3](/ehf/standard/ehf-catalogue-1.0.3)
-* [EHF Despatch Advice 1.0.2](/ehf/standard/ehf-despatch-advice-1.0.2)
-* [EHF Invoice and Creditnote 2.0.5](/ehf/standard/ehf-invoice-and-creditnote-2.0.5)
-* [EHF Ordering 1.0.3](/ehf/standard/ehf-ordering-1.0.3)
+* EHF Catalogue 1.0.2 will receive a hotfix to fix rule NOGOV-T19-R002 to make correct assertion.
+* EHF Ordering 1.0.2 will receive a hotfix to fix rule EUGEN-T01-R013 to make correct assertion.
 
-For more information on the update, please read the [announcement](/ehf/announcement/2015-05-13-new-revision-mandatory-july-1st/).
+New revisions are expected October 1st.
