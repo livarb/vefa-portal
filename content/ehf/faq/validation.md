@@ -20,7 +20,7 @@ Documents are declared by using the elements CustomizationId and ProfileId. The 
 
 ## I'm receiving the error "No validation definition is found in configuration.", what is wrong?
 
-Documents are declared by using the elements CustomizationId and ProfileId. Your document may lack a declaration or the declaration is wrong. Consult the implementation guide to find correct declaration of your document.
+Documents are declared by using the elements CustomizationId and ProfileId. Your document may lack a declaration or the declaration is wrong. Consult the implementation guide to find correct declaration for your document.
 
 ## I'm receiving fewer warnings/errors in the validation service than locally in my editor, what is wrong?
 
