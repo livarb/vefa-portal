@@ -11,5 +11,9 @@ current = "/peppol/standard/sbdh-current/"
 title = "Specification"
 url = "http://www.gs1.com/standard-business-document-header-sbdh"
 
+[[resources]]
+title = "commons-sbdh"
+url = "https://github.com/difi/commons-libs/tree/master/commons-sbdh"
+
 +++
 
