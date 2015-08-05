@@ -26,15 +26,15 @@ url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-07-01/STAND
 
 [[resources]]
 title = "GEFEG for creditnote"
-url = "http://test.vefa.difi.no/ehf/gefeg/creditnote/2.0/"
+url = "https://test-vefa.difi.no/ehf/gefeg/creditnote/2.0/"
 
 [[resources]]
 title = "GEFEG for invoice"
-url = "http://test.vefa.difi.no/ehf/gefeg/invoice/2.0/"
+url = "https://test-vefa.difi.no/ehf/gefeg/invoice/2.0/"
 
 [[resources]]
 title = "Validator"
-url = "http://test.vefa.difi.no/validator/"
+url = "https://test-vefa.difi.no/validator/"
 
 [[resources]]
 title = "Github milestone"

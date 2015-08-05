@@ -9,7 +9,7 @@ url = "http://vefa.difi.no/smp/"
 
 [[resources]]
 title = "Lookup service (test)"
-url = "http://test.vefa.difi.no/smp/"
+url = "https://test-vefa.difi.no/smp/"
 
 [[resources]]
 title = "Github project"

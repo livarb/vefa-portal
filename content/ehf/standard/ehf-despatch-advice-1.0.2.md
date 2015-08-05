@@ -26,7 +26,7 @@ url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-07-01/STAND
 
 [[resources]]
 title = "Validator"
-url = "http://test.vefa.difi.no/validator/"
+url = "https://test-vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artifacts"
@@ -34,7 +34,7 @@ url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-07-01"
 
 [[resources]]
 title = "GEFEF for despatch advice"
-url = "http://test.vefa.difi.no/ehf/gefeg/despatchadvice/1.0/"
+url = "https://test-vefa.difi.no/ehf/gefeg/despatchadvice/1.0/"
 
 +++
 

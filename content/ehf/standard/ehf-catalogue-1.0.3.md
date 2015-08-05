@@ -34,11 +34,11 @@ url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-07-01"
 
 [[resources]]
 title = "GEFEG for catalogue"
-url = "http://test.vefa.difi.no/ehf/gefeg/catalogue/1.0/"
+url = "https://test-vefa.difi.no/ehf/gefeg/catalogue/1.0/"
 
 [[resources]]
 title = "GEFEG for catalogue response"
-url = "http://test.vefa.difi.no/ehf/gefeg/catalogueresponse/1.0/"
+url = "https://test-vefa.difi.no/ehf/gefeg/catalogueresponse/1.0/"
 
 [[resources]]
 title = "Github milestone"

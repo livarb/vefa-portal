@@ -12,7 +12,7 @@ url = "http://vefa.difi.no/validator"
 
 [[resources]]
 title = "Validator (upcoming release)"
-url = "http://test.vefa.difi.no/validator"
+url = "https://test-vefa.difi.no/validator"
 
 +++
 

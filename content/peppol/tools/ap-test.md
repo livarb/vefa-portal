@@ -13,7 +13,7 @@ url = "https://test-aksesspunkt.difi.no/sender/"
 
 [[resources]]
 title = "SMP lookup"
-url = "http://test.vefa.difi.no/smp/9908/810418052"
+url = "https://test-vefa.difi.no/smp/9908/810418052"
 
 +++
 
