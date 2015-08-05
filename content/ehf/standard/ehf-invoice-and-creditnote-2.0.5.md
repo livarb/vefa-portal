@@ -3,7 +3,6 @@
 title = "EHF Invoice and Creditnote 2.0.5"
 type = "standard"
 status = "upcoming"
-draft = true
 
 aliases = [ "/ehf/standard/ehf-invoice-and-creditnote-next/", "/ehf/standard/ehf-invoice-and-creditnote-2.0.next/" ]
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
