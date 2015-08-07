@@ -10,7 +10,7 @@ Based on feedback Difi has found it necessary to renew their commitment to the v
 
 As part of introducing a new validator will current validator no longer be supported.
 
-Here is the schedule Difi will follow:
+This is the schedule Difi will follow:
 
 * June 1st, 2015: [An early version](http://vefa.difi.no/validator2/) was made available for testing.
 * August 1st, 2015: Code for the validator will be available as [open source on Github](https://github.com/difi/vefa-validator).
