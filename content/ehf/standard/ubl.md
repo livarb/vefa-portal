@@ -13,8 +13,8 @@ title = "Version 2.1"
 url = "http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html"
 
 [[resources]]
-title = "commons-ubl21"
-url = "https://github.com/difi/commons-libs/tree/master/commons-ubl21"
+title = "Maven Central: commons-ubl21"
+url = "http://mvnrepository.com/artifact/no.difi.commons/commons-ubl21"
 
 [[resources]]
 title = "TC Homepage"
