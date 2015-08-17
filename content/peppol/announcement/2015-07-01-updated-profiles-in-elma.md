@@ -16,6 +16,6 @@ This profiles are available as of July 1st:
 
 Profile "PEPPOL BIS Order Only 2.0 (Profile 03A)" will become available later.
 
-Profile "EHF_INVOICE_CREDITNOTE_REMINDER" will be change name September 1st and become profile for EHF Reminder 1.1.
+Profile "EHF_INVOICE_CREDITNOTE_REMINDER" will change name September 1st and become profile for EHF Reminder 1.1.
 
 See also more information regarding [removal of EHF Invoice and Creditnote 1.X in ELMA](/ehf/calendar/2015-09-01-removal-of-ehf-invoice-and-creditnote-1-x-in-elma/).
