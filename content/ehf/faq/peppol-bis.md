@@ -8,7 +8,7 @@ type = "faq"
 
 ## What is PEPPOL BIS?
 
-[PEPPOL BIS](/ehf/standard/peppol-bis-v2) is the international version of EHF.
+[PEPPOL BIS](/ehf/standard/peppol-bis-v2) is the international equivalence of EHF.
 
 ## When to use EHF and when to use PEPPOL BIS?
 
