@@ -22,7 +22,7 @@ All providers must sign a TIA with a OpenPEPPOL Authority or directly with OpenP
 
 Please see the Anskaffelser.no to find more [information about signing up with Difi](http://www.anskaffelser.no/temaer-elektronisk-handel/aksesspunkt-transportformidlar-i-infrastruktur/bli-et-aksesspunkt).
 
-## Acceptance test
+## [Acceptance test](/peppol/knowledge-base/acceptance-test/)
 
 Acceptance testing is performed with all organizations signing the TIA. The acceptance test starts when the provider contact Difi (see [Support](/support)).
 
