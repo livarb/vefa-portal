@@ -14,9 +14,9 @@ The goal with this meeting is to:
 * Increase speed in transmission of documents.
 * Making money from your PEPPOL installation.
 
-Location: Difi conference center, Grev Wedels plass 12, Oslo
+**Location:** Difi conference center, Grev Wedels plass 12, Oslo
 
-Schedule: November 11th, 09:00-16:00
+**Schedule:** November 11th, 09:00-16:00
 
 Preliminary agenda:
 
