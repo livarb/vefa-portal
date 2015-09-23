@@ -12,7 +12,7 @@ title = "Specification"
 url = "http://www.gs1.com/standard-business-document-header-sbdh"
 
 [[resources]]
-title = "Maven Central"
+title = "XML Bindings (Maven Central)"
 url = "http://mvnrepository.com/artifact/no.difi.commons/commons-sbdh"
 
 +++

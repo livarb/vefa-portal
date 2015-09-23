@@ -1,7 +1,9 @@
 +++
 
-title = "Elektronisk mottaker- og adresseregister (ELMA)"
+title = "ELMA (production)"
 type = "tools"
+
+aliases = [ "/peppol/tools/elma/" ]
 
 [[resources]]
 title = "Administration interface"
@@ -13,7 +15,7 @@ url = "https://smp.difi.no/ws/2.0?wsdl"
 
 +++
 
-ELMA is the [SMP](/peppol/standard/service-metadata-provider) provided by Difi for the norwegian market. Using ELMA is free of change for approved access points in the OpenPEPPOL network.
+Elsktronisk mottaker- og adresseregister (ELMA) is the [SMP](/peppol/standard/service-metadata-provider) provided by Difi for the norwegian market. Using ELMA is free of change for approved access points in the OpenPEPPOL network.
 
 Approved access points may get access by sending an e-mail to [elma@difi.no](mailto:elma@difi.no).
 
