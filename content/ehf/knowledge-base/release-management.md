@@ -58,13 +58,13 @@ The release management of EHF is defined in the table below. Notifications is av
 	<td>Potential review</td>
 	<td>March 1st</td>
 	<td>April 1st<br />October 1st</td>
-	<td>March 1st<br />June 1st<br />September 1st<br />December 1st</td>
+	<td>January 15th<br />April 15th<br />July 15th<br />October 15th</td>
 </tr>
 <tr>
 	<td>Potential release</td>
 	<td>September 1st</td>
 	<td>May 1st<br />November 1st</td>
-	<td>January 1st<br />April 1st<br />July 1st<br />October 1st</td>
+	<td>February 15th<br />May 15th<br />August 15th<br />November 15th</td>
 </tr>
 <tr>
 	<td>Release to mandatory</td>
