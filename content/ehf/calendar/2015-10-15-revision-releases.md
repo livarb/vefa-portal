@@ -1,10 +1,12 @@
 +++
 
-date = "2015-10-01"
+date = "2015-10-15"
 title = "Revision releases"
 type = "event"
 
 +++
+
+**Updated as a result of changed dates for releases.**
 
 This revisions are mandatory:
 
