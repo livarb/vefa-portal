@@ -1,6 +1,6 @@
 +++
 
-date = "2015-10-01"
+date = "2015-10-15"
 title = "New validator to replace current validator"
 type = "event"
 
