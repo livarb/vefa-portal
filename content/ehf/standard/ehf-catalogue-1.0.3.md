@@ -9,19 +9,19 @@ current = "/ehf/standard/ehf-catalogue-current/"
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-07-01/STANDARD/EHFCatalogue/1.0/guide/Implementeringsveileder%20EHF%20Katalog%20v1.0.3.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-10-01/STANDARD/EHFCatalogue/1.0/guide/Implementeringsveileder%20EHF%20Katalog%20v1.0.3.pdf"
 
 [[resources]]
 title = "Implementation attachments (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-07-01/STANDARD/EHFCatalogue/1.0/guide/attachments-norwegian"
+url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-10-01/STANDARD/EHFCatalogue/1.0/guide/attachments-norwegian"
 
 [[resources]]
 title = "Implementation guide (English)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-07-01/STANDARD/EHFCatalogue/1.0/guide/Implementation%20Guide%20EHF%20Catalogue%20v1.0.3.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-10-01/STANDARD/EHFCatalogue/1.0/guide/Implementation%20Guide%20EHF%20Catalogue%20v1.0.3.pdf"
 
 [[resources]]
 title = "Implementation attachments"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-07-01/STANDARD/EHFCatalogue/1.0/guide/attachments-english"
+url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-10-01/STANDARD/EHFCatalogue/1.0/guide/attachments-english"
 
 [[resources]]
 title = "Validator"
@@ -29,7 +29,7 @@ url = "https://test.vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artifacts"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-07-01"
+url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-10-01"
 
 [[resources]]
 title = "GEFEG for catalogue"
