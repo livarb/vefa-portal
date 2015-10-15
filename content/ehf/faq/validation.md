@@ -18,10 +18,6 @@ The validator are able to perform a technical validation so your document may be
 
 Documents are declared by using the elements CustomizationId and ProfileId. The declaration is used to determine the rules to use. Make sure to redeclare your document if you want to change the rules used for validation.
 
-## I'm receiving the error "No validation definition is found in configuration.", what is wrong?
-
-Documents are declared by using the elements CustomizationId and ProfileId. Your document may lack a declaration or the declaration is wrong. Consult the implementation guide to find correct declaration for your document.
-
 ## I'm receiving fewer warnings/errors in the validation service than locally in my editor, what is wrong?
 
 The config.xml file in the validation artifacts declare what rules are used. EHF filters some rules in the declaration of the validation artifacts. Please consult the config.xml and/or the list of rules in the implementation guide.

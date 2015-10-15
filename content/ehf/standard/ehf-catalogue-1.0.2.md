@@ -2,9 +2,8 @@
 
 title = "EHF Catalogue 1.0.2"
 type = "standard"
-status = "current"
+status = "deprecated"
 
-aliases = [ "/ehf/standard/ehf-catalogue-current/", "/ehf/standard/ehf-catalogue-1.0.current/" ]
 current = "/ehf/standard/ehf-catalogue-current/"
 
 [[resources]]
@@ -24,20 +23,8 @@ title = "Implementation attachments"
 url = "https://github.com/difi/vefa-validator-conf/raw/62cc6ce42d42898077dc27478ddf35d5e564ac9b/STANDARD/EHFCatalogue/1.0/guide/Attachments%20EHF%20Catalogue%20v1.0.2.zip"
 
 [[resources]]
-title = "Validator"
-url = "http://vefa.difi.no/validator/"
-
-[[resources]]
 title = "Validation artifacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/62cc6ce42d42898077dc27478ddf35d5e564ac9b"
-
-[[resources]]
-title = "GEFEG for catalogue"
-url = "http://vefa.difi.no/ehf/gefeg/catalogue/1.0/"
-
-[[resources]]
-title = "GEFEG for catalogue response"
-url = "http://vefa.difi.no/ehf/gefeg/catalogueresponse/1.0/"
 
 [[resources]]
 title = "Github milestone"

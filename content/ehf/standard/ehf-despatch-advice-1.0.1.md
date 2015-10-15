@@ -2,7 +2,7 @@
 
 title = "EHF Despatch Advice 1.0.1"
 type = "standard"
-status = "current"
+status = "deprecated"
 
 aliases = [ "/ehf/standard/ehf-despatch-advice-current/", "/ehf/standard/ehf-despatch-advice-1.0.current/" ]
 current = "/ehf/standard/ehf-despatch-advice-current/"
@@ -22,17 +22,5 @@ url = "https://github.com/difi/vefa-validator-conf/raw/62cc6ce42d42898077dc27478
 [[resources]]
 title = "Implementation attachments (English)"
 url = "https://github.com/difi/vefa-validator-conf/raw/62cc6ce42d42898077dc27478ddf35d5e564ac9b/STANDARD/EHFDespatchAdvice/1.0/guide/Attachments.zip"
-
-[[resources]]
-title = "Validator"
-url = "http://vefa.difi.no/validator/"
-
-[[resources]]
-title = "Validation artifacts"
-url = "https://github.com/difi/vefa-validator-conf/tree/62cc6ce42d42898077dc27478ddf35d5e564ac9b"
-
-[[resources]]
-title = "GEFEF for despatch advice"
-url = "http://vefa.difi.no/ehf/gefeg/despatchadvice/1.0/"
 
 +++

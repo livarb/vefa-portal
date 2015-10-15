@@ -5,7 +5,7 @@ type = "tools"
 
 [[resources]]
 title = "Stylesheet artifacts"
-url = "https://github.com/difi/vefa-ehf-xslt/tree/1a3382155264bdaf7511e5c0d083a624943ebe95"
+url = "https://github.com/difi/vefa-ehf-xslt"
 
 +++
 

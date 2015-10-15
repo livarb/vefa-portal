@@ -2,42 +2,42 @@
 
 title = "EHF Catalogue 1.0.3"
 type = "standard"
-status = "upcoming"
+status = "current"
 
-aliases = [ "/ehf/standard/ehf-catalogue-next/", "/ehf/standard/ehf-catalogue-1.0.next/" ]
+aliases = [ "/ehf/standard/ehf-catalogue-current/", "/ehf/standard/ehf-catalogue-1.0.current/" ]
 current = "/ehf/standard/ehf-catalogue-current/"
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-10-01/STANDARD/EHFCatalogue/1.0/guide/Implementeringsveileder%20EHF%20Katalog%20v1.0.3.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFCatalogue/1.0/guide/Implementeringsveileder%20EHF%20Katalog%20v1.0.3.pdf"
 
 [[resources]]
 title = "Implementation attachments (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-10-01/STANDARD/EHFCatalogue/1.0/guide/attachments-norwegian"
+url = "https://github.com/difi/vefa-validator-conf/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/master/STANDARD/EHFCatalogue/1.0/guide/attachments-norwegian"
 
 [[resources]]
 title = "Implementation guide (English)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2015-10-01/STANDARD/EHFCatalogue/1.0/guide/Implementation%20Guide%20EHF%20Catalogue%20v1.0.3.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFCatalogue/1.0/guide/Implementation%20Guide%20EHF%20Catalogue%20v1.0.3.pdf"
 
 [[resources]]
 title = "Implementation attachments"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-10-01/STANDARD/EHFCatalogue/1.0/guide/attachments-english"
+url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFCatalogue/1.0/guide/attachments-english"
 
 [[resources]]
 title = "Validator"
-url = "https://test.vefa.difi.no/validator/"
+url = "https://vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artifacts"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2015-10-01"
+url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f"
 
 [[resources]]
 title = "GEFEG for catalogue"
-url = "https://test-vefa.difi.no/ehf/gefeg/catalogue/1.0/"
+url = "https://vefa.difi.no/ehf/gefeg/catalogue/1.0/"
 
 [[resources]]
 title = "GEFEG for catalogue response"
-url = "https://test-vefa.difi.no/ehf/gefeg/catalogueresponse/1.0/"
+url = "https://vefa.difi.no/ehf/gefeg/catalogueresponse/1.0/"
 
 [[resources]]
 title = "Github milestone"

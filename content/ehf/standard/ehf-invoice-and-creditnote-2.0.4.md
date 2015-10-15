@@ -2,9 +2,8 @@
 
 title = "EHF Invoice and Creditnote 2.0.4"
 type = "standard"
-status = "current"
+status = "deprecated"
 
-aliases = [ "/ehf/standard/ehf-invoice-and-creditnote-current/", "/ehf/standard/ehf-invoice-and-creditnote-2.0.current/" ]
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
 
 [[resources]]
@@ -24,20 +23,8 @@ title = "Implementation attachments (English)"
 url = "https://github.com/difi/vefa-validator-conf/raw/62cc6ce42d42898077dc27478ddf35d5e564ac9b/STANDARD/EHFInvoice/2.0/guide/Attachments%20English%20Guideline.zip"
 
 [[resources]]
-title = "Validator"
-url = "http://vefa.difi.no/validator/"
-
-[[resources]]
 title = "Validation artifacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/62cc6ce42d42898077dc27478ddf35d5e564ac9b"
-
-[[resources]]
-title = "GEFEG for creditnote"
-url = "http://vefa.difi.no/ehf/gefeg/creditnote/2.0/"
-
-[[resources]]
-title = "GEFEG for invoice"
-url = "http://vefa.difi.no/ehf/gefeg/invoice/2.0/"
 
 [[resources]]
 title = "Github milestone"
