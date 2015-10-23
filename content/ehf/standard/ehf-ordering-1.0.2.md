@@ -23,7 +23,7 @@ title = "Implementation attachments (English)"
 url = "https://github.com/difi/vefa-validator-conf/raw/62cc6ce42d42898077dc27478ddf35d5e564ac9b/STANDARD/EHFOrder/1.0/guide/Attachments%20EHF%20Ordering%20v1.0.2.zip"
 
 [[resources]]
-title = "Validation artifacts"
+title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/62cc6ce42d42898077dc27478ddf35d5e564ac9b"
 
 [[resources]]

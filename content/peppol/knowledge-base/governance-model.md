@@ -18,7 +18,7 @@ Please see the OpenPEPPOL homepage to find more [information about membership](h
 
 ## Transport Infrastructure Agreement (TIA)
 
-All providers must sign a TIA with a OpenPEPPOL Authority or directly with OpenPEPPOL. Difi is the norwegian OpenPEPPOL Authority.
+All providers must sign a TIA with a PEPPOL Authority or directly with OpenPEPPOL. Difi is the Norwegian PEPPOL Authority.
 
 Please see the Anskaffelser.no to find more [information about signing up with Difi](http://www.anskaffelser.no/temaer-elektronisk-handel/aksesspunkt-transportformidlar-i-infrastruktur/bli-et-aksesspunkt).
 
