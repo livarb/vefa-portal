@@ -15,9 +15,9 @@ url = "/ehf/calendar"
 title = "Frequently asked questions"
 url = "/ehf/faq"
 
-#[[part]]
-#title = "Getting started"
-#url = "/ehf/getting-started"
+[[part]]
+title = "Getting started"
+url = "/ehf/getting-started"
 
 [[part]]
 title = "Knowledge base"
