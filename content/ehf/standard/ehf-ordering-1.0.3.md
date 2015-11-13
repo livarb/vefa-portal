@@ -9,7 +9,7 @@ current = "/ehf/standard/ehf-ordering-current/"
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/raw/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFOrder/1.0/guide/Implementeringsveileder%20EHF%20Ordreprosess%20v1.0.2.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFOrder/1.0/guide/Implementeringsveileder%20EHF%20Ordreprosess%20v1.0.3.pdf"
 
 [[resources]]
 title = "Implementation attachments (Norwegian)"
@@ -17,7 +17,7 @@ url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2
 
 [[resources]]
 title = "Implementation guide (English)"
-url = "https://github.com/difi/vefa-validator-conf/raw/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFOrder/1.0/guide/Implementation%20Guide%20EHF%20Ordering%20v1.0.2.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFOrder/1.0/guide/Implementation%20Guide%20EHF%20Ordering%20v1.0.3.pdf"
 
 [[resources]]
 title = "Implementation attachments (English)"
@@ -28,7 +28,7 @@ title = "Validator"
 url = "https://vefa.difi.no/validator/"
 
 [[resources]]
-title = "Validation artifacts"
+title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f"
 
 [[resources]]

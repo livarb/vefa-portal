@@ -13,14 +13,14 @@ url = "https://github.com/difi/vefa-validator-conf/raw/dc4c01bcf3782a3578ff8cd2e
 
 [[resources]]
 title = "Implementation attachments (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/master/STANDARD/EHFCatalogue/1.0/guide/attachments-norwegian"
+url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFCatalogue/1.0/guide/attachments-norwegian"
 
 [[resources]]
 title = "Implementation guide (English)"
 url = "https://github.com/difi/vefa-validator-conf/raw/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFCatalogue/1.0/guide/Implementation%20Guide%20EHF%20Catalogue%20v1.0.3.pdf"
 
 [[resources]]
-title = "Implementation attachments"
+title = "Implementation attachments (English)"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFCatalogue/1.0/guide/attachments-english"
 
 [[resources]]
@@ -28,7 +28,7 @@ title = "Validator"
 url = "https://vefa.difi.no/validator/"
 
 [[resources]]
-title = "Validation artifacts"
+title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f"
 
 [[resources]]

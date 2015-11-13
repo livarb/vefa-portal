@@ -27,7 +27,7 @@ title = "Validator"
 url = "https://vefa.difi.no/validator/"
 
 [[resources]]
-title = "Validation artifacts"
+title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f"
 
 [[resources]]

@@ -23,7 +23,7 @@ title = "Implementation attachments (English)"
 url = "https://github.com/difi/vefa-validator-conf/raw/7ca29029eb349c1e64f98a805d2e51b4e312124f/STANDARD/EHFInvoice/2.0/guide/Attachments%20English%20Guideline.zip"
 
 [[resources]]
-title = "Validation artifacts"
+title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/7ca29029eb349c1e64f98a805d2e51b4e312124f"
 
 [[resources]]
