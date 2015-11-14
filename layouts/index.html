@@ -26,7 +26,7 @@
 				</div>
 			</section>
 
-			<section class="box article-list with-hover-and-active">
+			<section class="box article-list news with-hover-and-active">
 				<div class="heading">    
 					<h2>Recent announcements</h2>
 				</div>
@@ -41,6 +41,11 @@
 							<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 						</div>
 					</article>
+					<!-- <article class="one-col">
+						<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+						<div class="byline"><div class="date">{{ dateFormat "2. Jan 2006" .Date }}</div></div>
+						<p class="ingress">...</p>
+					</article> -->
 					{{ end }}
 					<div class="footer">
 						<p><a href="/rss/" class="more">Follow RSS</a></p>
@@ -69,7 +74,7 @@
 				</div>    
 			</section>
 
-			<section class="box related-themes" style="background-color: #fff;">
+			<section class="box related-themes">
 				<div class="heading">
 					<h2>Shortcuts</h2>
 				</div>
