@@ -31,7 +31,7 @@
 					<h2>Recent announcements</h2>
 				</div>
 				<div class="body">
-				{{ range first 3 (where .Site.Pages.ByDate.Reverse "Type" "announcement") }}
+					{{ range first 3 (where .Site.Pages.ByDate.Reverse "Type" "announcement") }}
 					<article class="two-col">
 						<div class="group-left">
 							<div class="day">{{ dateFormat "2" .Date }}</div>
@@ -39,10 +39,12 @@
 						</div>
 						<div class="group-right">
 							<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-							<!-- <p class="ingress">Oslo</p> -->
 						</div>
 					</article>
-				{{ end }}
+					{{ end }}
+					<div class="footer">
+						<p><a href="/rss/" class="more">Follow RSS</a></p>
+					</div>
 				</div>    
 			</section>
 
@@ -60,7 +62,6 @@
 						</div>
 						<div class="group-right">
 							<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-							<!-- <p class="ingress">Oslo</p> -->
 						</div>
 					</article>
 				{{ end }}

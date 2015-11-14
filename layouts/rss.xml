@@ -4,7 +4,7 @@
     <link>{{ .Permalink }}</link>
     <language>en-US</language>
     <author>Difi</author>
-    <updated>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</updated>
+    <updated>{{ .Now.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</updated>
     {{ range where .Site.Pages.ByDate.Reverse "Type" "announcement" }}
     <item>
       <title>{{ .Title }}</title>
