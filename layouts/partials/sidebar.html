@@ -4,7 +4,7 @@
 	<section class="box menu left">
 		<div class="body">
 			<ul class="menu">
-			{{ range where .Site.Pages "Type" "section" }}
+			{{ range where .Site.Pages.ByTitle "Type" "section" }}
 				{{ if eq .Section $section }}
 				<li class="expanded active-trail">
 					<a href="{{ .Permalink }}" class="active">{{ .Title }}</a>
