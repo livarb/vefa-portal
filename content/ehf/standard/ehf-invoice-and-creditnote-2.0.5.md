@@ -7,6 +7,8 @@ status = "current"
 aliases = [ "/ehf/standard/ehf-invoice-and-creditnote-current/", "/ehf/standard/ehf-invoice-and-creditnote-2.0.current/" ]
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
 
+groups = ["shortcuts"]
+
 [[resources]]
 title = "Implementation guide (Norwegian)"
 url = "https://github.com/difi/vefa-validator-conf/raw/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFInvoice/2.0/guide/Implementeringsveileder%20EHF%20Fakturaprosess%20v2.0.pdf"

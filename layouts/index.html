@@ -68,6 +68,20 @@
 				{{ end }}
 				</div>    
 			</section>
-		</section>
 
+			<section class="box related-themes" style="background-color: #fff;">
+				<div class="heading">
+					<h2>Shortcuts</h2>
+				</div>
+				<div class="body">
+					<ul>
+						{{ range .Site.Taxonomies.groups.shortcuts }}
+						<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+						{{ end }}
+					</ul>
+				</div>
+			</section>
+
+		</section>
+		
 {{ partial "footer.html" . }}

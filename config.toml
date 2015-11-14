@@ -5,5 +5,8 @@ title = "Vefa"
 disableRSS = false
 disableSitemap = true
 
+[taxonomies]
+group = "groups"
+
 [blackfriday]
 plainIdAnchors = true
