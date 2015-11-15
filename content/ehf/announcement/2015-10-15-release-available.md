@@ -1,6 +1,6 @@
 +++
 
-date = "2015-10-16"
+date = "2015-10-15"
 title = "Release available"
 type = "announcement"
 
