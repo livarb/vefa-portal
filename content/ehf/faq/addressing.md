@@ -12,4 +12,4 @@ The address for Norwegian recipients is "9908:[Organization number]", where "[Or
 
 ## May sub entities be used for addressing?
 
-Sub entities, also known as ["Bedriftsnummer"]([The Register of Buiness Enterprises](/ehf/open-data/the-register-of-business-enterprises/)) may be registered in ELMA and used for addressing in EHF.
+Sub entities, also known as ["Bedriftsnummer"](https://altinnett.brreg.no/no/Begreper-A-A/Bedriftsnummer/) may be registered in ELMA and used for addressing in EHF.
