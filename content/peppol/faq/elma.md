@@ -18,6 +18,14 @@ type = "faq"
 
 Difi provides [a list of access points](http://www.anskaffelser.no/verktoy/aksesspunkter-ehf-og-bis-formater) with access to register Norwegian organizations in ELMA.
 
+## Who may remove an Norwegian organization in ELMA?
+
+Only the access point who registered an organization in ELMA may remove an organization from ELMA.
+
+## Can Difi remove an Norwegian organization in ELMA?
+
+No. Please see ["Who may remove an Norwegian organization in ELMA?"](#who-may-remove-an-norwegian-organization-in-elma)
+
 ## How to get access to ELMA?
 
 Access point providers who has successfully completed the [acceptance testing](/peppol/knowledge-base/acceptance-test/) may request access by sending a mail to [elma@difi.no](mailto:elma@difi.no).
