@@ -2,11 +2,11 @@ baseurl = "http://vefa.difi.no/"
 languageCode = "en"
 title = "Vefa"
 
-disableRSS = false
-disableSitemap = true
+disableRSS = true
+disableSitemap = false
 
 [taxonomies]
 group = "groups"
 
 [blackfriday]
-plainIdAnchors = true
+  plainIDAnchors = true
