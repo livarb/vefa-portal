@@ -15,9 +15,9 @@ url = "/peppol/calendar"
 title = "Frequently asked questions"
 url = "/peppol/faq"
 
-#[[part]]
-#title = "Getting started"
-#url = "/peppol/getting-started"
+[[part]]
+title = "Getting started"
+url = "/peppol/getting-started"
 
 [[part]]
 title = "Knowledge base"

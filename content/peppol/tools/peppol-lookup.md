@@ -1,11 +1,13 @@
 +++
 
-title = "SMP lookup"
+title = "PEPPOL lookup"
 type = "tools"
+
+aliases = [ "/peppol/tools/smp-lookup/" ]
 
 [[resources]]
 title = "Lookup service (production)"
-url = "http://vefa.difi.no/smp/"
+url = "https://vefa.difi.no/smp/"
 
 [[resources]]
 title = "Lookup service (test)"

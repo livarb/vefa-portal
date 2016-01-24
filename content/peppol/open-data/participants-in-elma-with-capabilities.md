@@ -33,7 +33,7 @@ Fields in the dataset as follows:
 * *ehf_order:* "true" if organization support an valid version of EHF Order
 * *ehf_order_1:* "true" if organization support an valid version of EHF Order 1.X
 
-The list of fields is not complete, but the pattern should be clear enough to understand the remining fields.
+The list of fields is not complete, but the pattern should be clear enough to understand the remaining fields.
 
 New fields are added and old fields removed as the profiles in ELMA evolve.
 
