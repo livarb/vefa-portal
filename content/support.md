@@ -13,6 +13,8 @@ Questions regarding Electroinc Commerce Format (EHF): [ehf@difi.no](mailto:ehf@d
 
 Questions regarding electronic invoice in general: [elektronisk.faktura@difi.no](mailto:elektronisk.faktura@difi.no)
 
+Questions regarding ISO 20022: [iso20022@difi.no](mailto:iso20022@difi.no)
+
 Make sure to send to **the one support email** most related to your request.
 
 Issues related to this portal should be reported as [issues on Github](https://github.com/difi/vefa-portal).

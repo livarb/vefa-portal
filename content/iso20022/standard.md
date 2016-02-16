@@ -1,0 +1,16 @@
++++
+
+title = "Standard"
+type = "standard"
+status = "current"
+
+[[resources]]
+title = "Homepage"
+url = "http://www.iso20022.org/"
+
+[[resources]]
+title = "Tools and resources by BSK"
+url = "http://bsk.no/innhold/nyheter/innfoering-av-iso-20022-den-nye-meldings-standarden-for-finansiell-meldingsutveksling.aspx"
+
++++
+
