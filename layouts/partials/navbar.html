@@ -1,3 +1,5 @@
+﻿{{ $section := .Section }}
+{{ $permalink := .Permalink }}
 <header>		
 	<div class="branding sub-portal">
 		<div class="logo">
@@ -30,5 +32,23 @@
 		</div>
 	</div>
 </header>
+
+<nav>
+	<div>
+		<div class="menu-button">Menu</div>
+		<ul class="menu">
+			{{ range where .Site.Pages.ByTitle "Type" "section" }}
+			<li>
+				<a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
+				<ul class="menu">
+				{{ range .Params.part }}
+					<li><a href="{{ .url }}"{{ if in $permalink .url }} class="active"{{ end }}><span>{{ .title }}</span></a></li>
+				{{ end }}
+				</ul>
+			</li>
+			{{ end }}
+		</ul>
+	</div>
+</nav>
 
 <div style="height: 20pt;"></div>
