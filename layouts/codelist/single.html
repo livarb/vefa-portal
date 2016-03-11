@@ -1,0 +1,48 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<article class="one-col">
+	
+		<h1>{{ .Title }}</h1>
+		
+		<div class="body">
+		
+			<dl class="dl-horizontal">
+			{{ if isset .Params "source" }}
+				<dt>Source</dt>
+				<dd>{{ .Params.source }}{{ if isset .Params "subset" }} (Subset by {{ .Params.subset }}){{ end }}</dd>
+			{{ end}}
+
+			{{ if isset .Params "listid" }}
+				<dt>ListID</dt>
+				<dd>{{ .Params.listid }}</dd>
+			{{ end}}
+			
+			{{ if isset .Params "xpath" }}
+				<dt>Xpath</dt>
+				<dd>
+					<ul>
+						{{ range .Params.xpath }}
+							<li>
+								{{ . }}
+							</li>
+						{{ end }}
+					</ul>
+				</dd>
+			{{ end}}
+			
+			<dl>
+		
+			{{ .Content }}
+		
+		</div>
+	
+	</article>
+
+</section>
+<aside>
+	{{ partial "resources.html" . }}
+</aside>
+	
+{{ partial "footer.html" . }}

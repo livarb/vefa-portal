@@ -25,6 +25,21 @@
 <script type="text/javascript" src="https://www.difi.no/themes/contrib/difi3/js/tools.js?v=1.00"></script>
 <script type="text/javascript" src="https://www.difi.no/profiles/difino/themes/difi3_difino/js/tools.js?v=1.00&amp;nngvvu"></script>
 	
+<script type="text/javascript">
+$(function ($) {
+	$("#documenttypes").on('change', function (e) {
+		var optionSelected = $("option:selected", this);
+	
+		if (this.value == "") {
+			$("#codes > tr").show();
+		} else {
+			$("#codes > tr").hide();
+			$("#codes > tr." + this.value).show();
+		}
+	});
+});
+</script>
+	
 <!-- Piwik -->
 <script type="text/javascript">
   var pkBaseURL = (("https:" == document.location.protocol) ? "https://stat.difi.no/" : "http://stat.difi.no/");

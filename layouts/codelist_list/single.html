@@ -1,0 +1,43 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<article class="one-col">
+		
+		<h1>{{ .Title }}</h1>
+	
+		<div class="body">
+
+			<div style="background-color: rgba(48,49,50,0.04); font-size: 10pt; padding: 10pt 10pt 0; text-align: right;">
+				<select id="documenttypes">
+					<option value="">All</option>
+				{{ range .Params.documenttypes }}
+					<option value="{{ . }}">{{ . }}</option>
+				{{ end }}
+				</select>
+			</div>
+		
+			<table>
+			<thead>
+				<tr>
+					<th>Title</th>
+					<th>Source</th>
+				</tr>
+			</thead>
+			<tbody id="codes">
+			{{ range where (where .Site.Pages "Section" .Section) "Type" "codelist" }}
+				<tr class="{{ range .Params.documenttypes }} {{ . }}{{ end }}">
+					<td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+					<td>{{ .Params.source }}{{ if isset .Params "subset" }} ({{ .Params.subset }}){{ end }}</td>
+				</tr>
+			{{ end }}
+			</tbody>
+			</table>
+		
+		</div>
+	
+	</article>
+	
+</section>
+
+{{ partial "footer.html" . }}

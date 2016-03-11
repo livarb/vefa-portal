@@ -24,6 +24,10 @@ title = "Knowledge base"
 url = "/ehf/knowledge-base"
 
 [[part]]
+title = "Codelist"
+url = "/ehf/codelist"
+
+[[part]]
 title = "Open data"
 url = "/ehf/open-data"
 
