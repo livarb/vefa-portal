@@ -1,6 +1,6 @@
 +++
 
-title = "Invoice type"
+title = "Invoice Type"
 type = "codelist"
 
 documenttypes = ["Invoice"]

@@ -1,6 +1,6 @@
 +++
 
-title = "Response code"
+title = "Response Code (OrderResponse)"
 type = "codelist"
 
 documenttypes = ["OrderResponse"]

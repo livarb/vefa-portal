@@ -1,6 +1,6 @@
 +++
 
-title = "Package level"
+title = "Package Level"
 type = "codelist"
 
 documenttypes = ["Catalogue"]

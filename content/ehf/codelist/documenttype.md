@@ -1,6 +1,6 @@
 +++
 
-title = "Kode for dokumenttype"
+title = "Document Type"
 type = "codelist"
 
 documenttypes = ["Order", "Catalogue", "Invoice", "CreditNote"]

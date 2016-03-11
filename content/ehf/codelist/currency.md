@@ -1,6 +1,6 @@
 +++
 
-title = "Currency code"
+title = "Currency Code"
 type = "codelist"
 
 documenttypes = ["Order", "Catalogue", "Invoice", "CreditNote"]

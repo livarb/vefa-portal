@@ -1,6 +1,6 @@
 +++
 
-title = "Payment means"
+title = "Payment Means"
 type = "codelist"
 
 documenttypes = ["Invoice", "CreditNote"]

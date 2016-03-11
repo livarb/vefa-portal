@@ -1,6 +1,6 @@
 +++
 
-title = "Landkoder"
+title = "Country Code"
 type = "codelist"
 
 documenttypes = ["Order", "Catalogue", "Invoice", "CreditNote"]

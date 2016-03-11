@@ -1,6 +1,6 @@
 +++
 
-title = "Actioncode (document level)"
+title = "Action Code (document level)"
 type = "codelist"
 
 documenttypes = ["Catalogue"]

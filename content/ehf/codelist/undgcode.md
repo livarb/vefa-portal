@@ -1,6 +1,6 @@
 +++
 
-title = "Farlig gods"
+title = "Hazardous Goods"
 type = "codelist"
 
 documenttypes = ["Catalogue"]

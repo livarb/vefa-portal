@@ -1,6 +1,6 @@
 +++
 
-title = "Consignmentordre indikator"
+title = "Order Type"
 type = "codelist"
 
 documenttypes = ["Order"]

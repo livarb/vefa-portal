@@ -1,6 +1,6 @@
 +++
 
-title = "Tax category"
+title = "Tax Category"
 type = "codelist"
 
 documenttypes = ["Order", "OrderResponse", "Catalogue", "Invoice", "CreditNote"]

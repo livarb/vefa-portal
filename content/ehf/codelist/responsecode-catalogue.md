@@ -1,6 +1,6 @@
 +++
 
-title = "Response code"
+title = "Response Code (Catalogue)"
 type = "codelist"
 
 documenttypes = ["Catalogue"]
@@ -11,7 +11,7 @@ listid = "UNCL4343"
 
 +++
 
-| Code | Description |
-| ---- | ----------- |
-| AP   | Akseptert   |
-| RE   | Avvist      |
+| Code | Description  |
+| ---- | ------------ |
+| AP   | Accepted     |
+| RE   | Not Accepted |

@@ -1,6 +1,6 @@
 +++
 
-title = "Enhetskoder"
+title = "Unit Code"
 type = "codelist"
 
 documenttypes = ["Order", "OrderResponse", "Catalogue", "Invoice", "CreditNote"]
