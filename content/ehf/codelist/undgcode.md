@@ -1,6 +1,6 @@
 +++
 
-title = "Farlig gods kode"
+title = "Farlig gods"
 type = "codelist"
 
 documenttypes = ["Catalogue"]

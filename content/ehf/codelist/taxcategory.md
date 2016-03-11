@@ -1,6 +1,6 @@
 +++
 
-title = "Avgiftskategori"
+title = "Tax category"
 type = "codelist"
 
 documenttypes = ["Order", "OrderResponse", "Catalogue", "Invoice", "CreditNote"]

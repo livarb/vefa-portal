@@ -1,6 +1,6 @@
-﻿+++
++++
 
-title = "Aksjonskode på linjenivå"
+title = "Actioncode (line level)"
 type = "codelist"
 
 documenttypes = ["Catalogue"]
@@ -9,10 +9,3 @@ xpath = ["cac:CatalogueLine/cbc:ActionCode"]
 listid = "ACTIONCODE:BII2"
 
 +++
-
-| Code    | Description                                                          |
-| ------- | -------------------------------------------------------------------- |
-| Add     | Brukes når en katalog sendes for første gang til en katalogmottaker. |
-| Replace | Erstatter hele katalogen                                             |
-| Update  | Oppdaterer en allerede eksisterende katalog.                         |
-| Delete  | Sletter en katalog                                                   |

@@ -3,6 +3,6 @@
 title = "Codelist"
 type = "codelist_list"
 
-documenttypes = ["Order", "OrderResponse", "Catalogue", "Invoice", "CreditNote"]
+documenttypes = ["Catalogue", "CreditNote", "Invoice", "Order", "OrderResponse"]
 
 +++
