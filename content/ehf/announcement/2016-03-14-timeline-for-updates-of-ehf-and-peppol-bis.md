@@ -1,6 +1,6 @@
 +++
 
-date = "2016-04-14"
+date = "2016-03-14"
 title = "Timeline for updates of EHF and PEPPOL BIS"
 type = "announcement"
 

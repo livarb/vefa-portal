@@ -14,8 +14,16 @@ title = "Implementation guide (Norwegian)"
 url = "https://test-vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/no/"
 
 [[resources]]
+title = "Implementation attachments (Norwegian)"
+url = "https://github.com/difi/vefa-validator-conf/tree/updates-2016-05-23/guides/ehf-invoice-and-creditnote-2.0/no/attachment"
+
+[[resources]]
 title = "Implementation guide (English)"
 url = "https://test-vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/en/"
+
+[[resources]]
+title = "Implementation attachments (English)"
+url = "https://github.com/difi/vefa-validator-conf/tree/updates-2016-05-23/guides/ehf-invoice-and-creditnote-2.0/en/attachment"
 
 [[resources]]
 title = "Validator"
