@@ -47,6 +47,8 @@ url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+I
 
 +++
 
+## Timeline
+
 Important dates:
 
 * Review: April 4th

@@ -4,6 +4,8 @@ date = "2016-04-05"
 title = "New releases for review"
 type = "announcement"
 
+aliases = [ "/ehf/announcement/2016-04-05-release-of-revisions/" ]
+
 +++
 
 This new revisions are available for review from April 5th:
