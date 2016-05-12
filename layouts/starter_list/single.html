@@ -13,9 +13,6 @@
 		</div>
 
 	</article>
-		
-</section>
-<aside>
 
 	{{ $pages := where (where .Site.Pages "Section" .Section) "Type" "starter" }}
 	<section class="box related-themes" style="background-image: none; background-color: #fff;">
@@ -28,6 +25,6 @@
 		</div>
 	</section>
 
-</aside>
+</section>
 
 {{ partial "footer.html" . }}

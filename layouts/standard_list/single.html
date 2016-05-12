@@ -3,9 +3,6 @@
 <section id="content">
 
 	<h1>{{ .Title }}</h1>
-	
-</section>
-<aside>
 
 	<!-- ByTitle -->
 	{{ $pages := where (where .Site.Pages "Section" .Section) "Type" "standard" }}
@@ -42,6 +39,6 @@
 	</section>
 	{{ end }}
 
-</aside>
+</section>
 
 {{ partial "footer.html" . }}
