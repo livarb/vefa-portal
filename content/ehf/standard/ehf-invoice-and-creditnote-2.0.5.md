@@ -2,12 +2,9 @@
 
 title = "EHF Invoice and Creditnote 2.0.5"
 type = "standard"
-status = "current"
+status = "deprecated"
 
-aliases = [ "/ehf/standard/ehf-invoice-and-creditnote-current/", "/ehf/standard/ehf-invoice-and-creditnote-2.0.current/" ]
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
-
-groups = ["shortcuts"]
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
@@ -26,20 +23,8 @@ title = "Implementation attachments (English)"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFInvoice/2.0/guide/attachments-english"
 
 [[resources]]
-title = "Validator"
-url = "https://vefa.difi.no/validator/"
-
-[[resources]]
 title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f"
-
-[[resources]]
-title = "GEFEG for creditnote"
-url = "https://vefa.difi.no/ehf/gefeg/creditnote/2.0/"
-
-[[resources]]
-title = "GEFEG for invoice"
-url = "https://vefa.difi.no/ehf/gefeg/invoice/2.0/"
 
 [[resources]]
 title = "Github milestone"
@@ -53,7 +38,7 @@ Please monitor the Github milestone for more detailed information regarding chan
 
 ### Missing example files (Files)
 
-Examplefiles where removed in the latest hotfix, these will be added to the attachments again. 
+Examplefiles where removed in the latest hotfix, these will be added to the attachments again.
 
 ### Payee Party (Guideline)
 
@@ -73,9 +58,9 @@ Remove zip-files containing attachement to implementation guide on github, repla
 
 ### Updated validation artefacts from OpenPEPPOL. (Validator)
 
-OpenPEPPOL has done some changes/corrections to their validation artefacts, upgrade to use of xslt/xPath 2.0 and handling of numeric values as an example. These artefacts are used when validating both EHF files and PEPPOL BIS files. 
+OpenPEPPOL has done some changes/corrections to their validation artefacts, upgrade to use of xslt/xPath 2.0 and handling of numeric values as an example. These artefacts are used when validating both EHF files and PEPPOL BIS files.
 Detailed list of changes can be found on pages 10 and 11 in [overview document](/docs/ehf/20150820_updates_2015-10-01.pdf).
 
 ### Your ref. (Guideline)
 
-Your reference is a mandatory element in EHF (cac:AccountingCustomerParty/cac:Party/cac:Contact/cbc:ID). If this information is not applicable for the invoice, the recommendation is to fill this element with the value "NA" (Not Applicable). This will be clarified in the guideline. 
+Your reference is a mandatory element in EHF (cac:AccountingCustomerParty/cac:Party/cac:Contact/cbc:ID). If this information is not applicable for the invoice, the recommendation is to fill this element with the value "NA" (Not Applicable). This will be clarified in the guideline.

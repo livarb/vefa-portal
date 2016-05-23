@@ -4,7 +4,6 @@ title = "EHF Despatch Advice 1.0.1"
 type = "standard"
 status = "deprecated"
 
-aliases = [ "/ehf/standard/ehf-despatch-advice-current/", "/ehf/standard/ehf-despatch-advice-1.0.current/" ]
 current = "/ehf/standard/ehf-despatch-advice-current/"
 
 [[resources]]

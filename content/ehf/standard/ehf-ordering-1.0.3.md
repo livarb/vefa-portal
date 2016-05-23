@@ -2,9 +2,8 @@
 
 title = "EHF Ordering 1.0.3"
 type = "standard"
-status = "current"
+status = "deprecated"
 
-aliases = [ "/ehf/standard/ehf-ordering-current/", "/ehf/standard/ehf-ordering-1.0.current/" ]
 current = "/ehf/standard/ehf-ordering-current/"
 
 [[resources]]
@@ -24,20 +23,8 @@ title = "Implementation attachments (English)"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFOrder/1.0/guide/attachments-english"
 
 [[resources]]
-title = "Validator"
-url = "https://vefa.difi.no/validator/"
-
-[[resources]]
 title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f"
-
-[[resources]]
-title = "GEFEG for order"
-url = "https://vefa.difi.no/ehf/gefeg/order/1.0/"
-
-[[resources]]
-title = "GEFEG for order response"
-url = "https://vefa.difi.no/ehf/gefeg/orderresponse/1.0/"
 
 [[resources]]
 title = "Github milestone"
@@ -71,5 +58,5 @@ Add validation for PEPPOL BIS 3A in configuration of validator. **NB! This valid
 
 ### Updated validation artefacts from OpenPEPPOL (Validator)
 
-OpenPEPPOL has done some changes/corrections to their validation artefacts, upgrade to use of xslt/xPath 2.0 and handling of numeric values as an example. These artefacts are used when validating both EHF files and PEPPOL BIS files. 
+OpenPEPPOL has done some changes/corrections to their validation artefacts, upgrade to use of xslt/xPath 2.0 and handling of numeric values as an example. These artefacts are used when validating both EHF files and PEPPOL BIS files.
 Detailed list of changes can be found on pages 10 and 11 in [overview document](/docs/ehf/20150820_updates_2015-10-01.pdf).

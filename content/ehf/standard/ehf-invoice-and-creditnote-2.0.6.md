@@ -2,44 +2,44 @@
 
 title = "EHF Invoice and Creditnote 2.0.6"
 type = "standard"
-status = "upcoming"
+status = "current"
 
-aliases = [ "/ehf/standard/ehf-invoice-and-creditnote-next/" ]
+aliases = [ "/ehf/standard/ehf-invoice-and-creditnote-current/", "/ehf/standard/ehf-invoice-and-creditnote-2.0.current/" ]
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
 
-# groups = ["shortcuts"]
+groups = ["shortcuts"]
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
-url = "https://test-vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/no/"
+url = "https://vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/no/"
 
 [[resources]]
 title = "Implementation attachments (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2016-05-23/guides/ehf-invoice-and-creditnote-2.0/no/attachment"
+url = "https://github.com/difi/vefa-validator-conf/tree/2016-05-23/guides/ehf-invoice-and-creditnote-2.0/no/attachment"
 
 [[resources]]
 title = "Implementation guide (English)"
-url = "https://test-vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/en/"
+url = "https://vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/en/"
 
 [[resources]]
 title = "Implementation attachments (English)"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2016-05-23/guides/ehf-invoice-and-creditnote-2.0/en/attachment"
+url = "https://github.com/difi/vefa-validator-conf/tree/2016-05-23/guides/ehf-invoice-and-creditnote-2.0/en/attachment"
 
 [[resources]]
 title = "Validator"
-url = "https://test-vefa.difi.no/validator/"
+url = "https://vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2016-05-23"
+url = "https://github.com/difi/vefa-validator-conf/tree/2016-05-23"
 
 [[resources]]
 title = "GEFEG for creditnote"
-url = "https://test-vefa.difi.no/ehf/gefeg/creditnote/2.0/"
+url = "https://vefa.difi.no/ehf/gefeg/creditnote/2.0/"
 
 [[resources]]
 title = "GEFEG for invoice"
-url = "https://test-vefa.difi.no/ehf/gefeg/invoice/2.0/"
+url = "https://vefa.difi.no/ehf/gefeg/invoice/2.0/"
 
 [[resources]]
 title = "Github milestone"

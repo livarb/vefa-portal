@@ -2,7 +2,7 @@
 
 title = "EHF Despatch Advice 1.0.2"
 type = "standard"
-status = "current"
+status = "deprecated"
 
 current = "/ehf/standard/ehf-despatch-advice-current/"
 
@@ -23,16 +23,8 @@ title = "Implementation attachments (English)"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f/STANDARD/EHFDespatchAdvice/1.0/guide/attachments-english"
 
 [[resources]]
-title = "Validator"
-url = "https://vefa.difi.no/validator/"
-
-[[resources]]
 title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/dc4c01bcf3782a3578ff8cd2ef0565919eb7e40f"
-
-[[resources]]
-title = "GEFEF for despatch advice"
-url = "https://vefa.difi.no/ehf/gefeg/despatchadvice/1.0/"
 
 [[resources]]
 title = "Github milestone"
@@ -62,5 +54,5 @@ Remove zip-files containing attachement to implementation guide on github, repla
 
 ### Updated validation artefacts from OpenPEPPOL (Validator)
 
-OpenPEPPOL has done some changes/corrections to their validation artefacts, upgrade to use of xslt/xPath 2.0 and handling of numeric values as an example. These artefacts are used when validating both EHF files and PEPPOL BIS files. 
+OpenPEPPOL has done some changes/corrections to their validation artefacts, upgrade to use of xslt/xPath 2.0 and handling of numeric values as an example. These artefacts are used when validating both EHF files and PEPPOL BIS files.
 Detailed list of changes can be found on pages 10 and 11 in [overview document](/docs/ehf/20150820_updates_2015-10-01.pdf).

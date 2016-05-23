@@ -2,38 +2,38 @@
 
 title = "EHF Despatch Advice 1.0.3"
 type = "standard"
-status = "upcoming"
+status = "current"
 
-aliases = [ "/ehf/standard/ehf-despatch-advice-upcoming/" ]
+aliases = [ "/ehf/standard/ehf-despatch-advice-current/", "/ehf/standard/ehf-despatch-advice-1.0.current/" ]
 current = "/ehf/standard/ehf-despatch-advice-current/"
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2016-05-23/guides/ehf-despatch-advice-1.0/Implementeringsveileder%20EHF%20Pakkseddel%20v1.0.3.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/2016-05-23/guides/ehf-despatch-advice-1.0/Implementeringsveileder%20EHF%20Pakkseddel%20v1.0.3.pdf"
 
 [[resources]]
 title = "Implementation attachments (Norwegian)"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2016-05-23/guides/ehf-despatch-advice-1.0/attachment/no"
+url = "https://github.com/difi/vefa-validator-conf/tree/2016-05-23/guides/ehf-despatch-advice-1.0/attachment/no"
 
 [[resources]]
 title = "Implementation guide (English)"
-url = "https://github.com/difi/vefa-validator-conf/raw/updates-2016-05-23/guides/ehf-despatch-advice-1.0/ImplementationGuide%20EHF%20DespatchAdvice%20v1.0.3.pdf"
+url = "https://github.com/difi/vefa-validator-conf/raw/2016-05-23/guides/ehf-despatch-advice-1.0/ImplementationGuide%20EHF%20DespatchAdvice%20v1.0.3.pdf"
 
 [[resources]]
 title = "Implementation attachments (English)"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2016-05-23/guides/ehf-despatch-advice-1.0/attachment/en"
+url = "https://github.com/difi/vefa-validator-conf/tree/2016-05-23/guides/ehf-despatch-advice-1.0/attachment/en"
 
 [[resources]]
 title = "Validator"
-url = "https://test-vefa.difi.no/validator/"
+url = "https://vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
-url = "https://github.com/difi/vefa-validator-conf/tree/updates-2016-05-23"
+url = "https://github.com/difi/vefa-validator-conf/tree/2016-05-23"
 
 [[resources]]
 title = "GEFEF for despatch advice"
-url = "https://test-vefa.difi.no/ehf/gefeg/despatchadvice/1.0/"
+url = "https://vefa.difi.no/ehf/gefeg/despatchadvice/1.0/"
 
 [[resources]]
 title = "Github milestone"
