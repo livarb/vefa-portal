@@ -12,7 +12,7 @@ xpath = ["cbc:CertificateTypeCode"]
 | Code     | Description 
 | -------- | ------------------------------------------
 | **Eco Label** | 
-| BAL | [Blue Andel](http://www.blauer-engel.de/)
+| BAL | [Der Blaue Engel](http://www.blauer-engel.de/)
 | GEA | [Bra Miljöval](http://www.naturskyddsforeningen.se/)
 | BBH-AC | [Byggvarubedömningen-Accepted](http://www.byggvarubedomningen.se/)
 | BBH-RE | [Byggvarubedömningen-Recommended](http://www.byggvarubedomningen.se/sa/node.asp?node=455)
