@@ -2,18 +2,18 @@
 
 <section id="content">
 
+	<h1>{{ .Title }}</h1>
+
 	<article class="one-col">
-	
-		<h1>{{ .Title }}</h1>
-		
+
 		<div class="body">
-		
+
 			<p><em>{{ dateFormat "January 2nd, 2006" .Date }}</em></p>
-		
+
 			{{ .Content }}
-			
+
 		</div>
-	
+
 	</article>
 
 	{{ partial "resources.html" . }}

@@ -2,10 +2,10 @@
 
 <section id="content">
 
+	<h1>{{ .Title }}</h1>
+
 	<article class="one-col">
 	
-		<h1>{{ .Title }}</h1>
-		
 		<div class="body">
 
 			{{ $pages := where (where .Site.Pages "Section" .Section) "Type" "article" }}
