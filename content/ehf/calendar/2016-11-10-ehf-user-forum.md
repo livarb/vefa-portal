@@ -1,6 +1,6 @@
 +++
 
-date = "2016-09-22"
+date = "2016-11-10"
 title = "EHF User Forum"
 type = "event"
 

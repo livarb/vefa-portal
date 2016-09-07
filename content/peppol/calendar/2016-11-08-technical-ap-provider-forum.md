@@ -1,7 +1,7 @@
 +++
 
-date = "2016-09-21"
-title = "AP Provider Forum"
+date = "2016-11-08"
+title = "Technical AP Provider Forum"
 type = "event"
 
 +++
