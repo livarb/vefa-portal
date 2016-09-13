@@ -37,7 +37,7 @@
 	<div>
 		<div class="menu-button">Menu</div>
 		<ul class="menu">
-			{{ range where .Site.Pages.ByTitle "Type" "section" }}
+			{{ range where .Site.Pages.ByTitle.ByWeight "Type" "section" }}
 			<li>
 				<a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
 				<ul class="menu">

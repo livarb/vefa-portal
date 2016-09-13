@@ -19,7 +19,7 @@
 			<section class="box related-themes" style="background-color: #fff;">
 				<div class="body">
 					<ul>
-						{{ range where .Site.Pages.ByTitle "Type" "section" }}
+						{{ range where .Site.Pages.ByTitle.ByWeight "Type" "section" }}
 							<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 						{{ end }}
 					</ul>

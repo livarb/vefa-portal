@@ -4,8 +4,10 @@ title = "Standard Business Document Header (SBDH)"
 type = "standard"
 status = "current"
 
-aliases = [ "/peppol/standard/sbdh-current/" ]
-current = "/peppol/standard/sbdh-current/"
+usages = ["preaward", "peppol"]
+
+aliases = [ "/peppol/standard/sbdh-current/", "/bb/standard/sbdh-current/" ]
+current = "/peppol/bb/sbdh-current/"
 
 [[resources]]
 title = "OpenPEPPOL Envelope Specification"
@@ -20,4 +22,3 @@ title = "XML Bindings (Maven Central)"
 url = "http://mvnrepository.com/artifact/no.difi.commons/commons-sbdh"
 
 +++
-

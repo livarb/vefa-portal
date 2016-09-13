@@ -7,6 +7,7 @@ disableSitemap = true
 
 [taxonomies]
 group = "groups"
+usage = "usages"
 
 [blackfriday]
   plainIDAnchors = true
