@@ -35,6 +35,15 @@ Other products must be configured accordingly.
 
 ## Performing acceptance test
 
+### Checklist
+
+Make sure to be ready to perform testing when contacting Difi. Please use this checklist:
+
+* The AP MUST [implement HTTPS](/peppol/knowledge-base/configuring-ssl/) with certificate chains to certificate authorities which would be considered to be trusted by the PEPPOL community.
+* The AP URL MUST only refer to HTTPS.
+* The AP URL SHOULD use the default port 443. This assures firewall rules are often setup in advance.
+* The AP MUST be accessible over the Internet.
+
 ### Inform Difi
 
 Before testing starts, make sure to inform Difi by sending mail to [ap@difi.no](mailto:ap@difi.no) containing this information:
@@ -43,6 +52,8 @@ Before testing starts, make sure to inform Difi by sending mail to [ap@difi.no](
 * Contact information
 * URL of access point
 * File containing certificate **(Do not send private key!)**
+
+Please use this subject: *"AP Acceptance testing: [Your company name]"*
 
 ### Send document to Difi
 
