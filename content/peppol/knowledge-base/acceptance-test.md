@@ -44,6 +44,8 @@ Make sure to be ready to perform testing when contacting Difi. Please use this c
 * The AP URL SHOULD use the default port 443. This assures firewall rules are often setup in advance.
 * The AP MUST be accessible over the Internet.
 
+Due to occasionally heavy demand on performing acceptance test, Difi can not promise completed testing unless access point is deemed ready for testing minimum two weeks before deadline.
+
 ### Inform Difi
 
 Before testing starts, make sure to inform Difi by sending mail to [ap@difi.no](mailto:ap@difi.no) containing this information:
@@ -59,7 +61,7 @@ Please use this subject: *"AP Acceptance testing: [Your company name]"*
 
 Send a document of choice to [9908:810418052](https://test-vefa.difi.no/smp/9908/810418052). Find your document in [Inbound files](/peppol/tools/ap-test/) and send the URL to [ap@difi.no](mailto:ap@difi.no) for verification of sending.
 
-### Receive document to Difi
+### Receive document from Difi
 
 Difi will send a document of choice to access point. Provider will receive a mail with question regarding the content to confirm successful sending.
 
