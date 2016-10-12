@@ -51,6 +51,7 @@ Due to occasionally heavy demand on performing acceptance test, Difi can not pro
 Before testing starts, make sure to inform Difi by sending mail to [ap@difi.no](mailto:ap@difi.no) containing this information:
 
 * Who performs the test
+* PEPPOL Authority of choice
 * Contact information
 * URL of access point
 * File containing certificate **(Do not send private key!)**
