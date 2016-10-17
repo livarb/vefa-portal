@@ -6,7 +6,7 @@ type = "announcement"
 
 +++
 
-This new revisions are available for review from today:
+These new revisions are available for review as of today:
 
 * [EHF Catalogue 1.0.6](/ehf/standard/ehf-catalogue-1.0.6/)
 * [EHF Despatch Advice 1.0.5](/ehf/standard/ehf-despatch-advice-1.0.5/)
