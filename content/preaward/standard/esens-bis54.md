@@ -3,6 +3,7 @@
 title = "e-SENS BIS 54 - Submit Tender"
 type = "standard"
 status = "current"
+draft = true
 
 [[resources]]
 title = "Implementation guide (English)"

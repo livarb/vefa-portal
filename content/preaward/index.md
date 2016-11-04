@@ -15,9 +15,9 @@ type = "section"
 #title = "Frequently asked questions"
 #url = "/preaward/faq"
 
-[[part]]
-title = "Getting started"
-url = "/preaward/getting-started"
+#[[part]]
+#title = "Getting started"
+#url = "/preaward/getting-started"
 
 [[part]]
 title = "Knowledge base"

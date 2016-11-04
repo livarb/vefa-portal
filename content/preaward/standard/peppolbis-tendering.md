@@ -3,6 +3,7 @@
 title = "PEPPOL BIS54a - Tendering"
 type = "standard"
 status = "current"
+draft = true
 
 [[resources]]
 title = "Implementation guide (English)"

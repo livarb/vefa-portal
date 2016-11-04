@@ -3,6 +3,7 @@
 title = "e-SENS BIS 47x - Call for Tender with ESPD"
 type = "standard"
 status = "current"
+draft = true
 
 [[resources]]
 title = "Implementation guide (English)"
