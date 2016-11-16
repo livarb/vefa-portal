@@ -7,6 +7,8 @@ status = "current"
 aliases = [ "/ehf/standard/ehf-invoice-and-creditnote-current/", "/ehf/standard/ehf-invoice-and-creditnote-2.0.current/" ]
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
 
+groups = ["shortcuts"]
+
 [[resources]]
 title = "Implementation guide (Norwegian)"
 url = "https://vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/no/"
