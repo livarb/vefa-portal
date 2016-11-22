@@ -11,4 +11,8 @@ current = "/preaward/standard/ehf-callfortenders-current/"
 title = "Implementation guide (English)"
 url = "https://vefa.difi.no/ehf/guide/callfortenders/1.0/en/"
 
+[[resources]]
+title = "Message Structure for Call for Tenders"
+url = "https://vefa.difi.no/ehf/gefeg/callfortenders/1.0/"
+
 +++

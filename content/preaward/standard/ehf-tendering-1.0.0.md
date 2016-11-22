@@ -11,4 +11,16 @@ current = "/preaward/standard/ehf-tendering-current/"
 title = "Implementation guide (English)"
 url = "https://vefa.difi.no/ehf/guide/tendering/1.0/en/"
 
+[[resources]]
+title = "Message Structure for Pre-Award Catalogue"
+url = "https://vefa.difi.no/ehf/gefeg/preawardcatalogue/1.0/"
+
+[[resources]]
+title = "Message Structure for Submit Tender"
+url = "https://vefa.difi.no/ehf/gefeg/submittender/1.0/"
+
+[[resources]]
+title = "Message Structure for Tender Receipt"
+url = "https://vefa.difi.no/ehf/gefeg/tenderreceipt/1.0/"
+
 +++
