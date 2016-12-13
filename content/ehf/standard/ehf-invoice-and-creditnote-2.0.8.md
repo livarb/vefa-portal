@@ -38,7 +38,11 @@ title = "Github milestone"
 url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Invoice+and+Creditnote+2.0.8%22+is%3Aclosed%7Copen"
 
 [[resources]]
-title = "Release notes"
+title = "Release notes (2016-11-15)"
 url = "https://vefa.difi.no/ehf/guide/release/2016-11-15/"
+
+[[resources]]
+title = "Release notes (2016-12-13)"
+url = "https://vefa.difi.no/ehf/guide/release/2016-12-13/"
 
 +++
