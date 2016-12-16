@@ -21,7 +21,7 @@ url = "https://vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
-url = "https://github.com/difi/vefa-validator-conf/tree/2016-11-15"
+url = "https://github.com/difi/vefa-validator-conf/tree/2016-12-13"
 
 [[resources]]
 title = "GEFEG for catalogue"
