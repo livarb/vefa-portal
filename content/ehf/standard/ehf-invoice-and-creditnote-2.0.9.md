@@ -23,6 +23,14 @@ title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/master"
 
 [[resources]]
+title = "Industry guide for energy (Norwegian)"
+url = "https://test-vefa.difi.no/ehf/guide/energiveileder/"
+
+[[resources]]
+title = "Industry guide for finance (Norwegian)"
+url = "https://test-vefa.difi.no/ehf/guide/finansveileder/"
+
+[[resources]]
 title = "GEFEG for creditnote"
 url = "https://test-vefa.difi.no/ehf/gefeg/creditnote/2.0/"
 
