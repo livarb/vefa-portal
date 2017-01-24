@@ -1,16 +1,18 @@
 +++
 
-title = "Standard"
-type = "standard"
-status = "current"
+title = "Standards"
+type = "standard_list"
 
 [[resources]]
-title = "Homepage"
-url = "http://www.iso20022.org/"
+title = "Associated Signature Container (ASiC)"
+url = "/bb/standard/asic"
 
 [[resources]]
-title = "Tools and resources by BSK"
-url = "http://bsk.no/innhold/nyheter/innfoering-av-iso-20022-den-nye-meldings-standarden-for-finansiell-meldingsutveksling.aspx"
+title = "Registered Electronic Mail (REM)"
+url = "/bb/standard/rem"
+
+[[resources]]
+title = "Standard Business Document Header (SBDH)"
+url = "/bb/standard/sbdh"
 
 +++
-
