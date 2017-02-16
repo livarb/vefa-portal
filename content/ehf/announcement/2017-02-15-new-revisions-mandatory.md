@@ -6,10 +6,10 @@ type = "announcement"
 
 +++
 
-New revisions mandatory today as of 12:00 CEST.
+New revisions mandatory today as of 12:00 CET.
 
 * [EHF Catalogue 1.0.7](/ehf/standard/ehf-catalogue-1.0.7/)
-* [EHF Invoice and Creditnote 2.0.9](/ehf/standard/ehf-invoice-and-creditnote-2.0.6/)
+* [EHF Invoice and Creditnote 2.0.9](/ehf/standard/ehf-invoice-and-creditnote-2.0.9/)
 
 Please see [release notes](https://test-vefa.difi.no/ehf/guide/release/2017-02-15/) for changes.
 

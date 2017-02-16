@@ -1,28 +1,27 @@
 +++
 
-title = "EHF Catalogue 1.0.7"
+title = "EHF Catalogue 1.0.8"
 type = "standard"
-status = "current"
+status = "upcoming"
 draft = true
 
-aliases = [ "/ehf/standard/ehf-catalogue-current/", "/ehf/standard/ehf-catalogue-1.0.current/" ]
 current = "/ehf/standard/ehf-catalogue-current/"
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
-url = "https://vefa.difi.no/ehf/guide/catalogue/1.0/no/"
+url = "https://test-vefa.difi.no/ehf/guide/catalogue/1.0/no/"
 
 [[resources]]
 title = "Implementation guide (English)"
-url = "https://vefa.difi.no/ehf/guide/catalogue/1.0/en/"
+url = "https://test-vefa.difi.no/ehf/guide/catalogue/1.0/en/"
 
 [[resources]]
 title = "Validator"
-url = "https://vefa.difi.no/validator/"
+url = "https://test-vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
-url = "https://github.com/difi/vefa-validator-conf/tree/2017-02-15"
+url = "https://github.com/difi/vefa-validator-conf/tree/master"
 
 [[resources]]
 title = "GEFEG for catalogue"

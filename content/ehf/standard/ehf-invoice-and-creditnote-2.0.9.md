@@ -2,41 +2,44 @@
 
 title = "EHF Invoice and Creditnote 2.0.9"
 type = "standard"
-status = "upcoming"
+status = "current"
 
+aliases = [ "/ehf/standard/ehf-invoice-and-creditnote-current/", "/ehf/standard/ehf-invoice-and-creditnote-2.0.current/" ]
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
+
+groups = ["shortcuts"]
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
-url = "https://test-vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/no/"
+url = "https://vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/no/"
 
 [[resources]]
 title = "Implementation guide (English)"
-url = "https://test-vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/en/"
+url = "https://vefa.difi.no/ehf/guide/invoice-and-creditnote/2.0/en/"
 
 [[resources]]
 title = "Validator"
-url = "https://test-vefa.difi.no/validator/"
+url = "https://vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
-url = "https://github.com/difi/vefa-validator-conf/tree/master"
+url = "https://github.com/difi/vefa-validator-conf/tree/2017-02-15"
 
 [[resources]]
 title = "Industry guide for energy (Norwegian)"
-url = "https://test-vefa.difi.no/ehf/guide/energiveileder/"
+url = "https://vefa.difi.no/ehf/guide/energiveileder/"
 
 [[resources]]
 title = "Industry guide for finance (Norwegian)"
-url = "https://test-vefa.difi.no/ehf/guide/finansveileder/"
+url = "https://vefa.difi.no/ehf/guide/finansveileder/"
 
 [[resources]]
 title = "GEFEG for creditnote"
-url = "https://test-vefa.difi.no/ehf/gefeg/creditnote/2.0/"
+url = "https://vefa.difi.no/ehf/gefeg/creditnote/2.0/"
 
 [[resources]]
 title = "GEFEG for invoice"
-url = "https://test-vefa.difi.no/ehf/gefeg/invoice/2.0/"
+url = "https://vefa.difi.no/ehf/gefeg/invoice/2.0/"
 
 [[resources]]
 title = "Github milestone"

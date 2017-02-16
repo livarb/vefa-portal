@@ -2,12 +2,9 @@
 
 title = "EHF Invoice and Creditnote 2.0.8"
 type = "standard"
-status = "current"
+status = "deprecated"
 
-aliases = [ "/ehf/standard/ehf-invoice-and-creditnote-current/", "/ehf/standard/ehf-invoice-and-creditnote-2.0.current/" ]
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
-
-groups = ["shortcuts"]
 
 [[resources]]
 title = "Implementation guide (Norwegian)"
