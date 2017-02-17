@@ -3,7 +3,6 @@
 title = "EHF Catalogue 1.0.7"
 type = "standard"
 status = "current"
-draft = true
 
 aliases = [ "/ehf/standard/ehf-catalogue-current/", "/ehf/standard/ehf-catalogue-1.0.current/" ]
 current = "/ehf/standard/ehf-catalogue-current/"
