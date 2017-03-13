@@ -31,9 +31,9 @@ url = "/iso20022/knowledge-base"
 title = "Standard"
 url = "/iso20022/standard"
 
-#[[part]]
-#title = "Tools"
-#url = "/iso20022/tools"
+[[part]]
+title = "Tools"
+url = "/iso20022/tools"
 
 +++
 
