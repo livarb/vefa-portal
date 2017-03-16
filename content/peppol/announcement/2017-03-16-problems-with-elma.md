@@ -6,7 +6,11 @@ type = "announcement"
 
 +++
 
-We are experiencing problems with ELMA related to administration of SML.
+This announcement will be updated as soon as we have new information.
+
+**Update 12:44 CET:** We've traced this to be related to authentication in the SML application. CEF is working to fix this issue.
+
+**Initial 10:50 CET:** We are experiencing problems with ELMA related to administration of SML.
 
 Functionality affected:
 
@@ -15,7 +19,3 @@ Functionality affected:
 Functionality not affected:
 
 * Updating supported profiles.
-
-Update 12:44 CET: We've traced this to be related to authentication in the SML application. CEF is working to fix this issue.
-
-This announcement will be updated as soon as we have new information.
