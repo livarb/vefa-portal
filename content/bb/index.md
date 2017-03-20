@@ -6,39 +6,39 @@ weight = 100
 
 #[[part]]
 #title = "Announcements"
-#url = "/bb/announcement"
+#url = "/bb/announcement/"
 
 #[[part]]
 #title = "Calendar"
-#url = "/bb/calendar"
+#url = "/bb/calendar/"
 
 #[[part]]
 #title = "Frequently asked questions"
-#url = "/bb/faq"
+#url = "/bb/faq/"
 
 #[[part]]
 #title = "Getting started"
-#url = "/bb/getting-started"
+#url = "/bb/getting-started/"
 
 #[[part]]
 #title = "Knowledge base"
-#url = "/bb/knowledge-base"
+#url = "/bb/knowledge-base/"
 
 #[[part]]
 #title = "Codelist"
-#url = "/bb/codelist"
+#url = "/bb/codelist/"
 
 #[[part]]
 #title = "Open data"
-#url = "/bb/open-data"
+#url = "/bb/open-data/"
 
 [[part]]
 title = "Standards"
-url = "/bb/standard"
+url = "/bb/standard/"
 
 [[part]]
 title = "Tools"
-url = "/bb/tools"
+url = "/bb/tools/"
 
 +++
 

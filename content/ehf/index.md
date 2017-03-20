@@ -5,39 +5,39 @@ type = "section"
 
 [[part]]
 title = "Announcements"
-url = "/ehf/announcement"
+url = "/ehf/announcement/"
 
 [[part]]
 title = "Calendar"
-url = "/ehf/calendar"
+url = "/ehf/calendar/"
 
 [[part]]
 title = "Frequently asked questions"
-url = "/ehf/faq"
+url = "/ehf/faq/"
 
 [[part]]
 title = "Getting started"
-url = "/ehf/getting-started"
+url = "/ehf/getting-started/"
 
 [[part]]
 title = "Knowledge base"
-url = "/ehf/knowledge-base"
+url = "/ehf/knowledge-base/"
 
 [[part]]
 title = "Codelist"
-url = "/ehf/codelist"
+url = "/ehf/codelist/"
 
 [[part]]
 title = "Open data"
-url = "/ehf/open-data"
+url = "/ehf/open-data/"
 
 [[part]]
 title = "Standards"
-url = "/ehf/standard"
+url = "/ehf/standard/"
 
 [[part]]
 title = "Tools"
-url = "/ehf/tools"
+url = "/ehf/tools/"
 
 +++
 

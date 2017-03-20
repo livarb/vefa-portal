@@ -5,35 +5,35 @@ type = "section"
 
 #[[part]]
 #title = "Announcements"
-#url = "/iso20022/announcement"
+#url = "/iso20022/announcement/"
 
 #[[part]]
 #title = "Calendar"
-#url = "/iso20022/calendar"
+#url = "/iso20022/calendar/"
 
 #[[part]]
 #title = "Frequently asked questions"
-#url = "/iso20022/faq"
+#url = "/iso20022/faq/"
 
 #[[part]]
 #title = "Getting started"
-#url = "/iso20022/getting-started"
+#url = "/iso20022/getting-started/"
 
 [[part]]
 title = "Knowledge base"
-url = "/iso20022/knowledge-base"
+url = "/iso20022/knowledge-base/"
 
 #[[part]]
 #title = "Open data"
-#url = "/iso20022/open-data"
+#url = "/iso20022/open-data/"
 
 [[part]]
 title = "Standard"
-url = "/iso20022/standard"
+url = "/iso20022/standard/"
 
 [[part]]
 title = "Tools"
-url = "/iso20022/tools"
+url = "/iso20022/tools/"
 
 +++
 

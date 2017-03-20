@@ -5,39 +5,39 @@ type = "section"
 
 [[part]]
 title = "Announcements"
-url = "/peppol/announcement"
+url = "/peppol/announcement/"
 
 [[part]]
 title = "Calendar"
-url = "/peppol/calendar"
+url = "/peppol/calendar/"
 
 [[part]]
 title = "Documentation"
-url = "/peppol/doc"
+url = "/peppol/doc/"
 
 [[part]]
 title = "Frequently asked questions"
-url = "/peppol/faq"
+url = "/peppol/faq/"
 
 [[part]]
 title = "Getting started"
-url = "/peppol/getting-started"
+url = "/peppol/getting-started/"
 
 [[part]]
 title = "Knowledge base"
-url = "/peppol/knowledge-base"
+url = "/peppol/knowledge-base/"
 
 [[part]]
 title = "Open data"
-url = "/peppol/open-data"
+url = "/peppol/open-data/"
 
 [[part]]
 title = "Standards"
-url = "/peppol/standard"
+url = "/peppol/standard/"
 
 [[part]]
 title = "Tools"
-url = "/peppol/tools"
+url = "/peppol/tools/"
 
 +++
 
