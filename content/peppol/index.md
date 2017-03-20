@@ -12,6 +12,10 @@ title = "Calendar"
 url = "/peppol/calendar"
 
 [[part]]
+title = "Documentation"
+url = "/peppol/doc"
+
+[[part]]
 title = "Frequently asked questions"
 url = "/peppol/faq"
 

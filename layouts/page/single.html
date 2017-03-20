@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<section id="content">
+
+	<h1>{{ .Title }}</h1>
+
+	<article class="one-col">
+
+		<div class="body">{{ .Content }}</div>
+	
+	</article>
+
+	{{ partial "resources.html" . }}
+</section>
+
+{{ partial "footer.html" . }}
