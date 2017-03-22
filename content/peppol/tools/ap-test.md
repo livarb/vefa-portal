@@ -12,12 +12,8 @@ title = "SMP lookup"
 url = "https://test-vefa.difi.no/smp/9908/810418052"
 
 [[resources]]
-title = "Listing: Inbound files"
-url = "https://test-aksesspunkt.difi.no/inbound/"
-
-[[resources]]
-title = "Listing: Outbound files"
-url = "https://test-aksesspunkt.difi.no/outbound/"
+title = "Transmissions"
+url = "https://test-aksesspunkt.difi.no/transmission/"
 
 +++
 
