@@ -1,8 +1,9 @@
 +++
 
-title = "EHF Invoice and Creditnote 2.0.10"
+title = "EHF Invoice and Creditnote 2.0.11"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
 
@@ -20,7 +21,7 @@ url = "https://test-vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
-url = "https://github.com/difi/vefa-ehf-postaward/tree/master"
+url = "https://github.com/difi/vefa-validator-conf/tree/master"
 
 [[resources]]
 title = "GEFEG for creditnote"
@@ -32,7 +33,7 @@ url = "https://test-vefa.difi.no/ehf/gefeg/invoice/2.0/"
 
 [[resources]]
 title = "Github milestone"
-url = "https://github.com/difi/vefa-ehf-postaward/issues?q=milestone%3A%22%20EHF%20Invoice%20and%20Credit%20Note%202.0.10%22%20is%3Aclosed%7Copen"
+url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Invoice+and+Creditnote+2.0.10%22+is%3Aclosed%7Copen"
 
 [[resources]]
 title = "Release notes"

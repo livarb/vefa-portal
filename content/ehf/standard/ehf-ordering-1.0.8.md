@@ -1,8 +1,9 @@
 +++
 
-title = "EHF Ordering 1.0.7"
+title = "EHF Ordering 1.0.8"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-ordering-current/"
 
@@ -20,7 +21,7 @@ url = "https://test-vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
-url = "https://github.com/difi/vefa-ehf-postaward/tree/master"
+url = "https://github.com/difi/vefa-validator-conf/tree/master"
 
 [[resources]]
 title = "GEFEG for order"
@@ -32,10 +33,10 @@ url = "https://test-vefa.difi.no/ehf/gefeg/orderresponse/1.0/"
 
 [[resources]]
 title = "Github milestone"
-url = "https://github.com/difi/vefa-ehf-postaward/issues?q=milestone%3A%22EHF+Ordering+1.0.7%22+is%3Aclosed%7Copen"
+url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Order+1.0.7%22+is%3Aclosed%7Copen"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-05-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2017-02-15/"
 
 +++
