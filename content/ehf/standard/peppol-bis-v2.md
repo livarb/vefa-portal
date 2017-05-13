@@ -9,7 +9,7 @@ current = "/ehf/standard/peppol-bis-current/"
 
 [[resources]]
 title = "Specification"
-url = "http://www.peppol.eu/ressource-library/technical-specifications/post-award/mandatory"
+url = "https://peppol.eu/downloads/?rel=tab404"
 
 +++
 
