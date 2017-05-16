@@ -33,10 +33,10 @@ url = "https://test-vefa.difi.no/ehf/gefeg/invoice/2.0/"
 
 [[resources]]
 title = "Github milestone"
-url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Invoice+and+Creditnote+2.0.11%22+is%3Aclosed%7Copen"
+url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Invoice+and+Creditnote+2.0.10%22+is%3Aclosed%7Copen"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-09-14/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2017-05-15/"
 
 +++

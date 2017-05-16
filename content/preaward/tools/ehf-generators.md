@@ -1,11 +1,11 @@
 +++
 
-title = "EHF Generators (Post-Award)"
+title = "EHF Generators (Pre-Award)"
 type = "tools"
 
 [[resources]]
-title = "EHF Catalogue tool (Norwegian)"
-url = "https://github.com/difi/vefa-ehf-generators/blob/master/Catalogue/catalogue-norwegian.xlsm?raw=true"
+title = "EHF Pre-Award Catalogue tool (Norwegian)"
+url = "https://github.com/difi/vefa-ehf-generators/blob/master/PreAwardCatalogue/preaward-catalogue-norwegian.xlsm?raw=true"
 
 [[resources]]
 title = "Github"

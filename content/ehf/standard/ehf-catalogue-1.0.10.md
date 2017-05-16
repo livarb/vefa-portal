@@ -1,6 +1,6 @@
 +++
 
-title = "EHF Catalogue 1.0.9"
+title = "EHF Catalogue 1.0.10"
 type = "standard"
 status = "upcoming"
 draft = true
@@ -24,19 +24,19 @@ title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/master"
 
 [[resources]]
-title = "Format Structure for catalogue"
+title = "GEFEG for catalogue"
 url = "https://test-vefa.difi.no/ehf/gefeg/catalogue/1.0/"
 
 [[resources]]
-title = "Format Structure for catalogue response"
+title = "GEFEG for catalogue response"
 url = "https://test-vefa.difi.no/ehf/gefeg/catalogueresponse/1.0/"
 
 [[resources]]
 title = "Github milestone"
-url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Catalogue+1.0.9%22+is%3Aclosed%7Copen"
+url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Catalogue+1.0.7%22+is%3Aclosed%7Copen"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-09-14/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2017-02-15/"
 
 +++

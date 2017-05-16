@@ -1,6 +1,6 @@
 +++
 
-title = "EHF Despatch Advice 1.0.7"
+title = "EHF Despatch Advice 1.0.8"
 type = "standard"
 status = "upcoming"
 draft = true
@@ -29,10 +29,10 @@ url = "https://test-vefa.difi.no/ehf/gefeg/despatchadvice/1.0/"
 
 [[resources]]
 title = "Github milestone"
-url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Despatch+Advice+1.0.7%22+is%3Aclosed%7Copen"
+url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Despatch+Advice+1.0.6%22+is%3Aclosed%7Copen"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-09-14/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2017-02-15/"
 
 +++

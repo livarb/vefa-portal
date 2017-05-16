@@ -2,9 +2,8 @@
 
 title = "EHF Ordering 1.0.6"
 type = "standard"
-status = "current"
+status = "deprecated"
 
-aliases = [ "/ehf/standard/ehf-ordering-current/", "/ehf/standard/ehf-ordering-1.0.current/" ]
 current = "/ehf/standard/ehf-ordering-current/"
 
 [[resources]]
