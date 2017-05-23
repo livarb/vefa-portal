@@ -6,6 +6,6 @@ status = "current"
 
 [[resources]]
 title = "Github"
-url = "https://github.com/klakegg/iso20022-extra"
+url = "https://github.com/difi/iso20022-extras"
 
 +++
