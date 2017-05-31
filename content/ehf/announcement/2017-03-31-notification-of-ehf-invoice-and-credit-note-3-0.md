@@ -4,6 +4,8 @@ date = "2017-03-31"
 title = "Notification of EHF Invoice and Credit Note 3.0"
 type = "announcement"
 
+groups = ["shortcuts"]
+
 +++
 
 This is a notification of the forthcoming EHF Invoice and Credit Note 3.0. The new major version implements [EU Directive 2014/55/EU](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014L0055&from=EN) in Norway.
