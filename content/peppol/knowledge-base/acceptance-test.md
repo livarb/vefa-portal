@@ -40,7 +40,7 @@ Other products must be configured accordingly.
 
 ## Performing acceptance test
 
-Acceptance testing is performed using an Access Point configured for production. Only switching the certificate from test certificate to production certificate should be required to be in production.
+Acceptance testing is performed using an Access Point configured for production with a test certificate (only after successful testing, switching the certificate from test certificate to production certificate should be required to go into production).
 
 
 ### Step 0: Checklist
@@ -79,7 +79,7 @@ To be checked by Difi before next step:
 
 ### Step 2: Send document to Difi
 
-Send a document of choice to [9908:810418052](https://test-vefa.difi.no/smp/9908/810418052). Find your document in [Inbound files](/peppol/tools/ap-test/) and send the URL to [ap@difi.no](mailto:ap@difi.no) for verification of sending.
+Send a document of choice to [9908:810418052](https://test-vefa.difi.no/smp/9908/810418052). Find your document in [Transmissions](/peppol/tools/ap-test/) and send the URL to [ap@difi.no](mailto:ap@difi.no) for verification of sending.
 
 To be checked by Difi before next step:
 
@@ -101,7 +101,7 @@ To be checked by Difi before next step:
 
 ## Step 4: Send test report
 
-Provider subject to testing must use results from testing to complete a [test report](/docs/peppol/aptest.xlsx) and send it to [ap@difi.no](mailto:ap@difi.no) (do not reply to earlier mail) within one week from completing testing.
+Provider subject to testing must use results from testing to complete a [test report](/docs/peppol/aptest.xlsx) and send it to [ap@difi.no](mailto:ap@difi.no) within one week from completing testing.
 
 To be checked by Difi before sending recommendation to the PA:
 
