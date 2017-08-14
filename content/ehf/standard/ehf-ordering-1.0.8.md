@@ -3,7 +3,6 @@
 title = "EHF Ordering 1.0.8"
 type = "standard"
 status = "upcoming"
-draft = true
 
 current = "/ehf/standard/ehf-ordering-current/"
 
@@ -30,10 +29,6 @@ url = "https://test-vefa.difi.no/ehf/gefeg/order/1.0/"
 [[resources]]
 title = "GEFEG for order response"
 url = "https://test-vefa.difi.no/ehf/gefeg/orderresponse/1.0/"
-
-[[resources]]
-title = "Github milestone"
-url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Order+1.0.8%22+is%3Aclosed%7Copen"
 
 [[resources]]
 title = "Release notes"

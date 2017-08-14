@@ -3,7 +3,6 @@
 title = "EHF Catalogue 1.0.9"
 type = "standard"
 status = "upcoming"
-draft = true
 
 current = "/ehf/standard/ehf-catalogue-current/"
 
@@ -30,10 +29,6 @@ url = "https://test-vefa.difi.no/ehf/gefeg/catalogue/1.0/"
 [[resources]]
 title = "Format Structure for catalogue response"
 url = "https://test-vefa.difi.no/ehf/gefeg/catalogueresponse/1.0/"
-
-[[resources]]
-title = "Github milestone"
-url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Catalogue+1.0.9%22+is%3Aclosed%7Copen"
 
 [[resources]]
 title = "Release notes"
