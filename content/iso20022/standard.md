@@ -8,6 +8,10 @@ title = "Associated Signature Container (ASiC)"
 url = "/bb/standard/asic"
 
 [[resources]]
+title = "Business Certificate Publisher (BCP)"
+url = "/bb/standard/bcp"
+
+[[resources]]
 title = "Registered Electronic Mail (REM)"
 url = "/bb/standard/rem"
 
