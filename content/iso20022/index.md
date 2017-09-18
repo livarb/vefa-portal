@@ -43,11 +43,13 @@ As part of rollout in Norway will Difi utilize CEF eDelivery to transport transa
 
 These organizations and financial institutions takes part:
 
-* [Direktoratet for økonomistyring](http://www.dfo.no/)
-* [KMD (DK)](http://www.kmd.dk/)
-* [HighJump](http://www.highjump.dk/)
-* [NAV](http://nav.no/)
-* [Sparebank 1](https://sparebank1.no/)
-* [Tripletex](https://www.tripletex.no/)
-* [Unit4](http://www.unit4.com/)
+* [SAP](http://www.sap.com/)
 * [Visma](http://www.visma.no/)
+* [DNB](http://www.dnb.no/)
+* [Nordea](http://www.nordea.no/)
+* [SpareBank1](https://sparebank1.no/)
+* [Eika](http://www.eika.no/)
+* [Sparebanken SØR](http://www.sor.no/)
+* [Nordea](http://www.evry.no/)
+* [Direktoratet for økonomistyring](http://www.dfo.no/)
+* [NAV](http://nav.no/)
