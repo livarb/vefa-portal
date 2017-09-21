@@ -52,5 +52,6 @@ These organizations and financial institutions takes part:
 * [Eika](http://www.eika.no/)
 * [Sparebanken SØR](http://www.sor.no/)
 * [EVRY](http://www.evry.no/)
+* [Unit4](http://www.unit4.com/)
 * [Direktoratet for økonomistyring](http://www.dfo.no/)
 * [NAV](http://nav.no/)
