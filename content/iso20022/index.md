@@ -45,11 +45,12 @@ These organizations and financial institutions takes part:
 
 * [SAP](http://www.sap.com/)
 * [Visma](http://www.visma.no/)
+* [Bits](http://bits.no/)
 * [DNB](http://www.dnb.no/)
 * [Nordea](http://www.nordea.no/)
 * [SpareBank1](https://sparebank1.no/)
 * [Eika](http://www.eika.no/)
 * [Sparebanken SØR](http://www.sor.no/)
-* [Nordea](http://www.evry.no/)
+* [EVRY](http://www.evry.no/)
 * [Direktoratet for økonomistyring](http://www.dfo.no/)
 * [NAV](http://nav.no/)
