@@ -8,7 +8,7 @@ usages = ["iso20022"]
 
 [[resources]]
 title = "Interface Documentation"
-url = "https://github.com/difi/bcp-docs/raw/master/InterfaceDocumentation.pdf"
+url = "https://vefa.difi.no/bcp/docs/interface/v1/"
 
 [[resources]]
 title = "Specification"
