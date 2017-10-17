@@ -1,14 +1,14 @@
 +++
 
-title = "EHF Common 1.0.1"
+title = "EHF Punch Out 1.0.0"
 type = "standard"
 status = "upcoming"
 
-current = "/ehf/standard/ehf-common-current/"
+#current = "/ehf/standard/ehf-punch-out-current/"
 
 [[resources]]
-title = "Reference (English)"
-url = "https://test-vefa.difi.no/ehf/guide/common/1.0/en/"
+title = "Implementation guide (English)"
+url = "https://test-vefa.difi.no/ehf/guide/punch-out/1.0/en/"
 
 [[resources]]
 title = "Validator"

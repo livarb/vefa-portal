@@ -1,8 +1,9 @@
 +++
 
-title = "EHF Despatch Advice 1.0.8"
+title = "EHF Despatch Advice 1.0.9"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-despatch-advice-current/"
 
@@ -32,6 +33,6 @@ url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+D
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-11-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2017-02-15/"
 
 +++

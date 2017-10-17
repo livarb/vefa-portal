@@ -1,8 +1,9 @@
 +++
 
-title = "EHF Catalogue 1.0.10"
+title = "EHF Catalogue 1.0.11"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-catalogue-current/"
 
@@ -36,6 +37,6 @@ url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+C
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-11-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2017-02-15/"
 
 +++

@@ -1,8 +1,9 @@
 +++
 
-title = "EHF Invoice and Creditnote 2.0.12"
+title = "EHF Invoice and Creditnote 2.0.13"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
 
@@ -36,6 +37,6 @@ url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+I
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-11-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2017-05-15/"
 
 +++

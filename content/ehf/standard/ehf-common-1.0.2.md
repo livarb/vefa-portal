@@ -1,8 +1,9 @@
 +++
 
-title = "EHF Common 1.0.1"
+title = "EHF Common 1.0.2"
 type = "standard"
-status = "upcoming"
+status = "current"
+draft = true
 
 current = "/ehf/standard/ehf-common-current/"
 
@@ -20,6 +21,6 @@ url = "https://github.com/difi/vefa-ehf-postaward/tree/master"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-11-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2017-09-14/"
 
 +++

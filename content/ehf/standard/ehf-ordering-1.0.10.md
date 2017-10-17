@@ -1,8 +1,9 @@
 +++
 
-title = "EHF Ordering 1.0.9"
+title = "EHF Ordering 1.0.10"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-ordering-current/"
 
@@ -32,6 +33,6 @@ url = "https://test-vefa.difi.no/ehf/gefeg/orderresponse/1.0/"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-11-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2017-02-15/"
 
 +++
