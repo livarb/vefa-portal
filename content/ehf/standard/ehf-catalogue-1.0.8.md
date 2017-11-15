@@ -6,7 +6,6 @@ status = "deprecated"
 
 current = "/ehf/standard/ehf-catalogue-current/"
 
-
 [[resources]]
 title = "Validation artefacts"
 url = "https://github.com/difi/vefa-validator-conf/tree/2017-05-15"

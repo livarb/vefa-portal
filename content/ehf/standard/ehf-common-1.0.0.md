@@ -2,18 +2,9 @@
 
 title = "EHF Common 1.0.0"
 type = "standard"
-status = "current"
+status = "deprecated"
 
-aliases = [ "/ehf/standard/ehf-common-current/", "/ehf/standard/ehf-common-1.0.current/" ]
 current = "/ehf/standard/ehf-common-current/"
-
-[[resources]]
-title = "Reference (English)"
-url = "https://vefa.difi.no/ehf/guide/common/1.0/en/"
-
-[[resources]]
-title = "Validator"
-url = "https://vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
