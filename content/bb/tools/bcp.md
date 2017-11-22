@@ -1,10 +1,12 @@
 +++
 
 title = "Business Certificate Publisher (BCP)"
-type = "standard"
+type = "tools"
 status = "current"
 
 usages = ["iso20022"]
+
+aliases = [ "/bb/standard/bcp/" ]
 
 [[resources]]
 title = "Interface Documentation"
@@ -23,3 +25,8 @@ title = "Test instance"
 url = "https://test-bcp.difi.blufo.net/"
 
 +++
+
+Current CAs for business certificates:
+
+* [Buypass](https://www.buypass.no/)
+* [Commfides](https://www.commfides.com/)

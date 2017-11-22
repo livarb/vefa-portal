@@ -11,6 +11,10 @@ type = "section"
 #title = "Calendar"
 #url = "/iso20022/calendar/"
 
+[[part]]
+title = "Documentation"
+url = "/iso20022/doc/"
+
 #[[part]]
 #title = "Frequently asked questions"
 #url = "/iso20022/faq/"
@@ -55,3 +59,4 @@ These organizations and financial institutions takes part:
 * [Unit4](http://www.unit4.com/)
 * [Direktoratet for økonomistyring](http://www.dfo.no/)
 * [NAV](http://nav.no/)
+* [Azets](https://www.azets.no/)
