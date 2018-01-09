@@ -6,8 +6,8 @@ type = "announcement"
 
 +++
 
-We are expiriencing problems related to registration of new participants in ELMA since Monday morning.
+We expirienced problems related to registration of new participants in ELMA since Monday morning.
 
-Difi is working on finding a solution to this problem.
+The problem was solved today at 10:54 CET.
 
 All other services related to ELMA is working as expected.
