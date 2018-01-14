@@ -2,6 +2,7 @@
 
 title = "PEPPOL transport infrastructure (eDelivery)"
 type = "section"
+weight = 1030
 
 [[part]]
 title = "Announcements"

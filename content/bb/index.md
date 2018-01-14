@@ -2,7 +2,7 @@
 
 title = "Building Blocks"
 type = "section"
-weight = 100
+weight = 1050
 
 #[[part]]
 #title = "Announcements"

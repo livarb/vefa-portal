@@ -2,6 +2,7 @@
 
 title = "ISO 20022"
 type = "section"
+weight = 1040
 
 #[[part]]
 #title = "Announcements"

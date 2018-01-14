@@ -1,7 +1,8 @@
 +++
 
-title = "Electronic Commerce Format (EHF)"
+title = "EHF (Post-Award)"
 type = "section"
+weight = 1010
 
 [[part]]
 title = "Announcements"

@@ -2,6 +2,7 @@
 
 title = "Pre-Award"
 type = "section"
+weight = 1060
 
 #[[part]]
 #title = "Announcements"
