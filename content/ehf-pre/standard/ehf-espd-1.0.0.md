@@ -2,7 +2,7 @@
 
 title = "EHF ESPD 1.0.0"
 type = "standard"
-status = "upcoming"
+status = "current"
 
 
 aliases = [ "/ehf-pre/standard/ehf-espd-current/", "/ehf-pre/standard/ehf-espd-1.0.current/" ]

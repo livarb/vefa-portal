@@ -4,9 +4,9 @@ title = "EHF (Pre-Award)"
 type = "section"
 weight = 1020
 
-#[[part]]
-#title = "Announcements"
-#url = "/ehf/announcement/"
+[[part]]
+title = "Announcements"
+url = "/ehf-pre/announcement/"
 
 #[[part]]
 #title = "Calendar"
