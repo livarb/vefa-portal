@@ -6,4 +6,4 @@ type = "event"
 
 +++
 
-More information to be available January 16th.
+Please see [release notes](https://test-vefa.difi.no/ehf/guide/release/2018-02-20/) for changes in this release.

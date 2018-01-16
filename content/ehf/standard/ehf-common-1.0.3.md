@@ -1,8 +1,9 @@
 +++
 
-title = "EHF Common 1.0.2"
+title = "EHF Common 1.0.3"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-common-current/"
 

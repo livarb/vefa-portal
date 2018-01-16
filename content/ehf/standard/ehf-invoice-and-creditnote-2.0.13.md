@@ -3,7 +3,6 @@
 title = "EHF Invoice and Creditnote 2.0.13"
 type = "standard"
 status = "upcoming"
-draft = true
 
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
 
@@ -32,11 +31,7 @@ title = "GEFEG for invoice"
 url = "https://test-vefa.difi.no/ehf/gefeg/invoice/2.0/"
 
 [[resources]]
-title = "Github milestone"
-url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+Invoice+and+Creditnote+2.0.10%22+is%3Aclosed%7Copen"
-
-[[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-05-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2018-02-20/"
 
 +++
