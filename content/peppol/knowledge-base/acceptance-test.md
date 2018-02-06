@@ -42,6 +42,12 @@ Other products must be configured accordingly.
 
 Acceptance testing is performed using an Access Point configured for production with a test certificate (only after successful testing, switching the certificate from test certificate to production certificate should be required to go into production).
 
+Please notice:
+
+* A Difi notification that the test has ended due to lack of activity means you need to start at Step 1 again - by sending the test initiation memo. Such a notification is normally sent after one week of inactivity.
+
+* Acceptance testing is performed step by step. Any action performed for upcoming steps before receiving notification from Difi to continue are seen as self-testing and is not accepted as part of acceptance testing.
+
 
 ### Step 0: Checklist
 
