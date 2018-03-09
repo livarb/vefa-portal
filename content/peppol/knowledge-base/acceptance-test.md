@@ -85,12 +85,13 @@ To be checked by Difi before next step:
 
 ### Step 2: Send document to Difi
 
-Send a document of choice to [9908:810418052](https://test-vefa.difi.no/smp/9908/810418052). Find your document in [Transmissions](/peppol/tools/ap-test/) and send the URL to [ap@difi.no](mailto:ap@difi.no) for verification of sending.
+Send a document of your choice to [9908:810418052](https://test-vefa.difi.no/smp/9908/810418052). Find your transmission in [the list of transmissions](/peppol/tools/ap-test/) and send the URL pointing to the transmission to be used for verification to [ap@difi.no](mailto:ap@difi.no).
 
 To be checked by Difi before next step:
 
 * Verify receipt of document.
 * Checking the received document in general.
+* Verifying correct use of SBDH based on document sent.
 
 
 ### Step 3: Receive document from Difi
