@@ -27,6 +27,21 @@ Providers deemed not ready for acceptance testing will be asked to restart when 
 
 ## Configuration
 
+The access point software to be used must be configured for testing. This includes:
+
+* Using a PEPPOL PKI access point certificate for testing purposes.
+* Using "acc.edelivery.tech.ec.europa.eu" as SML.
+
+Please consult the documentation for the access point software of your choosing.
+
+
+### Oxalis 4.x
+
+[Oxalis 4.x](/peppol/tools/oxalis/) is automatically configured for testing when configured to use the test certificate.
+
+
+### Oxalis 3.x
+
 Providers using [Oxalis 3.x](/peppol/tools/oxalis/) must update oxalis-global.properties to contain these values:
 
 ```
@@ -34,8 +49,6 @@ oxalis.pki.version=V2
 oxalis.operation.mode=TEST
 oxalis.sml.hostname=acc.edelivery.tech.ec.europa.eu
 ```
-
-Other products must be configured accordingly.
 
 
 ## Performing acceptance test
