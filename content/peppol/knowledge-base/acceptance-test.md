@@ -84,7 +84,7 @@ Before testing starts, make sure to inform Difi by sending mail to [ap@difi.no](
 * Who performs the test?
 * Contact information
 * URL to AS2 endpoint of access point
-* File containing OpenPEPPOL AP certificate **(Do not send private key!)**
+* OpenPEPPOL AP certificate exported as X.509 PEM
 * Specify the PEPPOL Authority (PA) chosen
 
 Please use this subject: *"AP Acceptance testing: [Your company name]"*
@@ -121,7 +121,7 @@ To be checked by Difi before next step:
 
 ## Step 4: Send test report
 
-Provider subject to testing must use results from testing to complete a [test report](/docs/peppol/aptest.xlsx) and send it to [ap@difi.no](mailto:ap@difi.no) within one week from completing testing.
+Provider subject to testing must use results from testing to complete a [test report](/docs/peppol/aptest.xlsx) to be provided within one week from completing testing.
 
 To be checked by Difi before sending recommendation to the PA:
 
