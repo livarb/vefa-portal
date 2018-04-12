@@ -115,7 +115,10 @@ Providers do not need to register any recipients in the SMP/SMK to be ready for 
 
 To be checked by Difi before next step:
 
-* Checking MDN received from AP provider.
+* Checking MDN received from AP provider:
+ * MDN is positive.
+ * MDN implements the standard.
+ * MDN contains certificate used for signing.
 * Verifying AP provider is able to reproduce information to uniquely verify receipt of document.
 
 
