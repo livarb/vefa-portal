@@ -5,11 +5,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	{{ if isset .Params "metaDescription" }}<meta name="description" content="{{ .Params.metaDescription }}">{{ end }}
 	{{ if isset .Params "metaKeywords" }}<meta name="keywords" content="{{ .Params.metaKeywords }}">{{ end }}
-	
+
 	{{ .Hugo.Generator }}
 
 	<title>{{ .Title }} | {{ .Site.Title }}</title>
-	
+
 	<link rel="shortcut icon" href="https://www.difi.no/profiles/difino/themes/difi3_difino/favicon.ico" type="image/vnd.microsoft.icon" />
 	<link rel="canonical" href="{{ .Permalink }}">
 	<link rel="alternate" type="application/rss+xml" title="VEFA feed" href="/rss/" />
@@ -25,5 +25,15 @@
 			nav { display: none; }
 		}
 	</style>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-12685001-24"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-12685001-24');
+	</script>
 
 </head>
