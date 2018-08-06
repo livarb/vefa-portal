@@ -98,7 +98,7 @@ To be checked by Difi before next step:
 
 ### Step 2: Send document to Difi
 
-Send a document of your choice to [9908:810418052](https://test-vefa.difi.no/smp/9908/810418052). Find your transmission in [the list of transmissions](/peppol/tools/ap-test/) and send the URL pointing to the transmission to be used for verification to [ap@difi.no](mailto:ap@difi.no).
+Send a document of your choice to [9908:810418052](https://test-vefa.difi.no/smp/9908/810418052). Find your transmission in [the list of transmissions](/peppol/tools/ap-test/) and send the URL pointing as a reply to the latest email received from Difi as part of acceptance testing.
 
 To be checked by Difi before next step:
 
