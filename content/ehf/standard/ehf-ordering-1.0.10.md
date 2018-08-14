@@ -3,7 +3,6 @@
 title = "EHF Ordering 1.0.10"
 type = "standard"
 status = "upcoming"
-draft = true
 
 current = "/ehf/standard/ehf-ordering-current/"
 

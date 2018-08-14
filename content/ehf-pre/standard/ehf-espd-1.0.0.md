@@ -18,6 +18,6 @@ url = "https://vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
-url = "https://github.com/difi/vefa-ehf-espd"
+url = "https://github.com/difi/vefa-ehf-espd/tree/1.0.0"
 
 +++

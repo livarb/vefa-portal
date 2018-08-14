@@ -3,7 +3,6 @@
 title = "EHF Order Agreement 1.0.1"
 type = "standard"
 status = "upcoming"
-draft = true
 
 current = "/ehf/standard/ehf-order-agreement-current/"
 

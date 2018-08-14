@@ -3,6 +3,7 @@
 title = "EHF Despatch Advice 1.0.9"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-despatch-advice-current/"
 

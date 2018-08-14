@@ -3,7 +3,6 @@
 title = "EHF Invoice and Creditnote 2.0.14"
 type = "standard"
 status = "upcoming"
-draft = true
 
 current = "/ehf/standard/ehf-invoice-and-creditnote-current/"
 

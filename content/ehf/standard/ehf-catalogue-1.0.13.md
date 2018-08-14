@@ -1,8 +1,9 @@
 +++
 
-title = "EHF Catalogue 1.0.12"
+title = "EHF Catalogue 1.0.13"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-catalogue-current/"
 
