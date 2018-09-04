@@ -32,6 +32,6 @@ url = "https://github.com/difi/vefa-validator-conf/issues?q=milestone%3A%22EHF+D
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-02-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2018-09-12/"
 
 +++

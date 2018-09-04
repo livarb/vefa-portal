@@ -20,6 +20,6 @@ url = "https://github.com/difi/vefa-ehf-postaward/tree/master"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2018-02-20/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2018-09-12/"
 
 +++

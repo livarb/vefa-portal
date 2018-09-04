@@ -32,6 +32,6 @@ url = "https://test-vefa.difi.no/ehf/gefeg/orderresponse/1.0/"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2017-02-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2018-09-12/"
 
 +++
