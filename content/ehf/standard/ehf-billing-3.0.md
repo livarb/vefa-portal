@@ -4,6 +4,8 @@ title = "EHF Billing 3.0"
 type = "standard"
 status = "current"
 
+groups = ["shortcuts"]
+
 [[resources]]
 title = "Documentation"
 url = "http://docs.peppol.eu/poacc/billing/3.0/"
