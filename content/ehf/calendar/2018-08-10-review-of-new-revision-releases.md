@@ -6,4 +6,4 @@ type = "event"
 
 +++
 
-More information to come later.
+Please see [announcement for more information](/ehf/announcement/2018-08-14-new-releases-for-review/).
