@@ -5,7 +5,7 @@ type = "standard"
 status = "current"
 
 
-aliases = [ "/ehf-pre/standard/ehf-espd-current/", "/ehf-pre/standard/ehf-espd-1.0.current/" ]
+aliases = [ "/ehf-pre/standard/ehf-espd-1.0.current/" ]
 current = "/ehf-pre/standard/ehf-espd-current/"
 
 [[resources]]
