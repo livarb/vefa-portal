@@ -3,23 +3,24 @@
 title = "EHF Punch Out 1.0.1"
 type = "standard"
 status = "upcoming"
+draft = true
 
 current = "/ehf/standard/ehf-punch-out-current/"
 
 [[resources]]
-title = "Documentation"
-url = "https://test-vefa.difi.no/ehf/g2/punch-out/"
+title = "Implementation guide (English)"
+url = "https://test-vefa.difi.no/ehf/guide/punch-out/1.0/en/"
 
 [[resources]]
 title = "Validator"
 url = "https://test-vefa.difi.no/validator/"
 
 [[resources]]
-title = "Specification source"
+title = "Validation artefacts"
 url = "https://github.com/difi/vefa-ehf-postaward/tree/master"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/g2/release/2018-11-15/"
+url = "https://test-vefa.difi.no/ehf/guide/release/2018-09-12/"
 
 +++

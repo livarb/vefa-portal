@@ -3,24 +3,19 @@
 title = "EHF Common 1.0.4"
 type = "standard"
 status = "upcoming"
-draft = true
 
 current = "/ehf/standard/ehf-common-current/"
 
 [[resources]]
-title = "Reference (English)"
-url = "https://test-vefa.difi.no/ehf/guide/common/1.0/en/"
+title = "Documentation"
+url = "https://test-vefa.difi.no/ehf/g2/common/"
 
 [[resources]]
-title = "Validator"
-url = "https://test-vefa.difi.no/validator/"
-
-[[resources]]
-title = "Validation artefacts"
+title = "Specification source"
 url = "https://github.com/difi/vefa-ehf-postaward/tree/master"
 
 [[resources]]
 title = "Release notes"
-url = "https://test-vefa.difi.no/ehf/guide/release/2018-02-20/"
+url = "https://test-vefa.difi.no/ehf/g2/release/2018-11-15/"
 
 +++
