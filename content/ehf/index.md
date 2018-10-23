@@ -1,6 +1,6 @@
 +++
 
-title = "EHF (Post-Award)"
+title = "EHF Post-Award"
 type = "section"
 weight = 1010
 

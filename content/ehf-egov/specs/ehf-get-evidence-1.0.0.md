@@ -4,8 +4,8 @@ title = "EHF Get Evidence 1.0.0"
 type = "standard"
 status = "current"
 
-aliases = [ "/ehf-pre/standard/ehf-get-evidence-current/" ]
-current = "/ehf-pre/standard/ehf-get-evidence-current/"
+aliases = [ "/ehf-egov/specs/ehf-get-evidence-current/", "/ehf-pre/standard/ehf-get-evidence-1.0.0/" ]
+current = "/ehf-egov/specs/ehf-get-evidence-current/"
 
 [[resources]]
 title = "Documentation"

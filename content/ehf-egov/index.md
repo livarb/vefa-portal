@@ -1,43 +1,43 @@
 +++
 
-title = "EHF Pre-Award"
+title = "EHF eGovernment"
 type = "section"
-weight = 1020
+weight = 1025
 
 [[part]]
 title = "Announcements"
-url = "/ehf-pre/announcement/"
+url = "/ehf-egov/announcement/"
 
 #[[part]]
 #title = "Calendar"
-#url = "/ehf/calendar/"
+#url = "/bb/calendar/"
 
 #[[part]]
 #title = "Frequently asked questions"
-#url = "/ehf/faq/"
+#url = "/bb/faq/"
 
 #[[part]]
 #title = "Getting started"
-#url = "/ehf/getting-started/"
+#url = "/bb/getting-started/"
 
 #[[part]]
 #title = "Knowledge base"
-#url = "/ehf/knowledge-base/"
+#url = "/bb/knowledge-base/"
 
 #[[part]]
 #title = "Codelist"
-#url = "/ehf/codelist/"
+#url = "/bb/codelist/"
 
 #[[part]]
 #title = "Open data"
-#url = "/ehf/open-data/"
+#url = "/bb/open-data/"
 
 [[part]]
-title = "Standards"
-url = "/ehf-pre/standard/"
+title = "Specifications"
+url = "/ehf-egov/specs/"
 
 #[[part]]
 #title = "Tools"
-#url = "/ehf/tools/"
+#url = "/bb/tools/"
 
 +++
