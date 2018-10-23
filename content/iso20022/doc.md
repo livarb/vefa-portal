@@ -23,3 +23,5 @@ aliases = [ "/iso20022/standard/peppol/", "/iso20022/tools/processes/", "/iso200
 ([Github](https://github.com/difi/iso20022-docs/tree/master/security))
 
 * [Use of (enhanced) PEPPOL eDelivery network for exchange of ISO 20022-based payment messages](https://vefa.difi.no/iso20022/files/20170119%20Use%20of%20PEPPOL%20eDelivery%20network%20for%20ISO%2020022%20v_1.pdf)
+
+* [Test Report Template for Access points](/docs/iso20022/20171121%20Template%20Testreport%20Enhanced%20PEPPOL%20AP.docx)
