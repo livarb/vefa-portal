@@ -1,12 +1,12 @@
 +++
 
 date = "2018-11-01"
-title = "ELMA maintenance postponed"
+title = "ELMA maintenance 13.11.18 16:00-00:00"
 type = "event"
 
 +++
 
-Planned maintenance window is postponed. A new date will be available shortly
+Planned maintenance window is 13.11.18. Between 16:00-00:00.
 
 Difi will upgrade ELMA during the maintenance window to a new version.
 
