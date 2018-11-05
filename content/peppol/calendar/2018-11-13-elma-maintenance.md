@@ -1,6 +1,6 @@
 +++
 
-date = "2018-11-01"
+date = "2018-11-13"
 title = "ELMA maintenance 13.11.18 16:00-00:00"
 type = "event"
 
