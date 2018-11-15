@@ -2,18 +2,9 @@
 
 title = "EHF Punch Out 1.0.0"
 type = "standard"
-status = "current"
+status = "deprecated"
 
-aliases = [ "/ehf/standard/ehf-punch-out-current/", "/ehf/standard/ehf-punch-out-1.0.current/" ]
 current = "/ehf/standard/ehf-punch-out-current/"
-
-[[resources]]
-title = "Implementation guide (English)"
-url = "https://vefa.difi.no/ehf/guide/punch-out/1.0/en/"
-
-[[resources]]
-title = "Validator"
-url = "https://vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"

@@ -12,7 +12,7 @@ url = "http://docs.peppol.eu/poacc/billing/3.0/"
 
 [[resources]]
 title = "Usage in Norway"
-url = "https://vefa.difi.no/ehf/guide/billing/3.0/"
+url = "https://vefa.difi.no/ehf/g3/billing-3.0/norway/"
 
 +++
 
