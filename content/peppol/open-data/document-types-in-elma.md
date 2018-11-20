@@ -19,4 +19,5 @@ url = "http://hotell.difi.no/download/difi/elma/documenttypes?download"
 
 This dataset contains all document types available in ELMA.
 
-Updated every hour.
+<del>Updated every hour.</del>
+Temporarily only updated daily (20.11.2018).
