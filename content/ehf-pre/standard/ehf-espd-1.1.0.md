@@ -9,11 +9,11 @@ current = "/ehf-pre/standard/ehf-espd-current/"
 
 [[resources]]
 title = "Implementation documentation"
-url = "https://test-vefa.difi.no/ehf-pre/guide/espd/1.1/"
+url = "https://vefa.difi.no/ehf-pre/guide/espd/1.1/"
 
 [[resources]]
 title = "Validator"
-url = "https://test-vefa.difi.no/validator/"
+url = "https://vefa.difi.no/validator/"
 
 [[resources]]
 title = "Validation artefacts"
