@@ -8,6 +8,6 @@ type = "announcement"
 
 EHF Pre-Award Catalogue 1.0 is now made available for review.
 
-* [EHF Pre-Award Catalogue 1.0.0](/ehf-pre/standard/ehf-preaward-catalogue-1.0.0/)
+* [EHF Pre-Award Cataloguing 1.0.0](/ehf-pre/standard/ehf-preaward-cataloguing-1.0.0/)
 
 Please send comments to [ehf@difi.no](mailto:ehf@difi.no) no later than December 24th.
