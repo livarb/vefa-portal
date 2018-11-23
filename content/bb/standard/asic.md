@@ -4,6 +4,10 @@ title = "Associated Signature Container (ASiC)"
 type = "standard"
 status = "current"
 
+[[resource]]
+title = "ASiC in PEPPOL eDelivery Network"
+url = "https://vefa.difi.no/bb/spec/edelivery-capability-extension/new-payload/"
+
 [[resources]]
 title = "e-SENS documentation"
 url = "http://wiki.ds.unipi.gr/display/ESENS/PR+-+eSENS+Container"
