@@ -1,7 +1,7 @@
 +++
 
 date = "2018-11-22"
-title = "EHF Pre-Award Catalogue 1.0 for review"
+title = "EHF Pre-Award Cataloguing 1.0 for review"
 type = "announcement"
 
 +++
