@@ -4,7 +4,7 @@ title = "Large files"
 type = "standard"
 status = "current"
 
-[[resource]]
+[[resources]]
 title = "Large files in PEPPOL eDelivery Network"
 url = "https://vefa.difi.no/bb/spec/edelivery-capability-extension/large-files/"
 

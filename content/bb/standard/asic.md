@@ -4,7 +4,7 @@ title = "Associated Signature Container (ASiC)"
 type = "standard"
 status = "current"
 
-[[resource]]
+[[resources]]
 title = "ASiC in PEPPOL eDelivery Network"
 url = "https://vefa.difi.no/bb/spec/edelivery-capability-extension/new-payload/"
 
