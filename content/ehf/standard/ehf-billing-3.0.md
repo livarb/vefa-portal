@@ -21,5 +21,5 @@ Timeline:
 * March 31st 2017: Official notification
 * March 1st 2018: Review of standard
 * August 31st 2018: Release of standard
-* January 1st 2019: Mandatory use of standard
+* April 1st 2019: Mandatory use of standard
 * January 1st 2020: Removal of previous standard
