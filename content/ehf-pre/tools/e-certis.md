@@ -11,4 +11,6 @@ url = "https://ec.europa.eu/growth/tools-databases/ecertis/"
 title = "ESPD and e-Certis"
 url = "https://ec.europa.eu/growth/single-market/public-procurement/e-procurement/espd_en"
 
+aliases = [ "/preaward/tools/e-certis/" ]
+
 +++
