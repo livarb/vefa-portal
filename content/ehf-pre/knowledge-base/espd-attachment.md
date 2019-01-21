@@ -4,6 +4,8 @@ title = "ESPD attachment"
 group = "Governance"
 type = "article"
 
+aliases = [ "/preaward/knowledge-base/espd-attachment/" ]
+
 +++
 
 Implementers of transactions may attach ESPD Request or ESPD response by adding a ```DocumentReference``` element. Special values to be used in addition to normal values for attachments:

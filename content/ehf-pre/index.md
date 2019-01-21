@@ -20,9 +20,9 @@ url = "/ehf-pre/announcement/"
 #title = "Getting started"
 #url = "/ehf/getting-started/"
 
-#[[part]]
-#title = "Knowledge base"
-#url = "/ehf/knowledge-base/"
+[[part]]
+title = "Knowledge base"
+url = "/ehf-pre/knowledge-base/"
 
 #[[part]]
 #title = "Codelist"
@@ -36,8 +36,8 @@ url = "/ehf-pre/announcement/"
 title = "Standards"
 url = "/ehf-pre/standard/"
 
-#[[part]]
-#title = "Tools"
-#url = "/ehf/tools/"
+[[part]]
+title = "Tools"
+url = "/ehf-pre/tools/"
 
 +++

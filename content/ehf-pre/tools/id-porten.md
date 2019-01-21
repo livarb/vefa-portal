@@ -7,4 +7,6 @@ type = "tools"
 title = "Samarbeidsportalen"
 url = "https://samarbeid.difi.no/"
 
+aliases = [ "/preaward/tools/id-porten/" ]
+
 +++
