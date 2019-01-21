@@ -37,5 +37,4 @@ The list of fields is not complete, but the pattern should be clear enough to un
 
 New fields are added and old fields removed as the profiles in ELMA evolve.
 
-<del>Dataset is updated every hour.</del>
-Temporarily only updated daily (20.11.2018).
+Dataset is updated every hour.
