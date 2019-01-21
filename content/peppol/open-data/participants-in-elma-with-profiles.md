@@ -21,5 +21,4 @@ url = "http://data.norge.no/data/direktoratet-forvaltning-og-ikt/norske-mottaker
 
 +++
 
-<del>Updated every hour.</del>
-Temporarily only updated daily (20.11.2018).
+Updated every hour.
